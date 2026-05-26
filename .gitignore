@@ -1,0 +1,21 @@
+# Secrets
+.env
+config/accounts.json
+
+# Temporary PDFs (cached for debugging)
+data/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/

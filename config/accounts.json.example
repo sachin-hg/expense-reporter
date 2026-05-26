@@ -1,0 +1,12 @@
+[
+  {
+    "email": "your.primary@gmail.com",
+    "password_env": "GMAIL_ACCOUNT1_APP_PASSWORD",
+    "label": "Transaction Statements"
+  },
+  {
+    "email": "your.secondary@gmail.com",
+    "password_env": "GMAIL_ACCOUNT2_APP_PASSWORD",
+    "label": "Transaction Statements"
+  }
+]
