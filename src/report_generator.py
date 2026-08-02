@@ -229,6 +229,11 @@ class ReportGenerator:
             lines.append(f'    line "{cat_label}" [{", ".join(str(v) for v in vals)}]')
         lines.append("```")
         lines.append("")
+        # Legend key (xychart-beta doesn't render line labels in GitHub's mermaid)
+        lines.append("**Lines:** " + " · ".join(
+            CATEGORY_LABELS.get(cat, cat) for cat in active_cats
+        ))
+        lines.append("")
 
         # ── Pie chart: current month category breakdown ──────────────────
         pie_data = sorted(

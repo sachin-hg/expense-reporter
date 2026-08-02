@@ -72,6 +72,7 @@ These exact merchants must always map to the given category regardless of other 
 - "Yes Madam" / "YESMADAM" (any case) → HEALTH, merchant_short = "Salon"
 - "Everyday Fitness" (any case) → HEALTH, merchant_short = "Everyday Fitness"
 - "Global Value" and "Cash Back" in the same merchant name → ROHAN, merchant_short = "Global Value Cash Back"
+- "Aseem Rastogi" (any case) → UPSKILL_AI, merchant_short = "Aseem Rastogi"
 
 Keyword rules — apply when the merchant name CONTAINS these words (case-insensitive substring):
 - contains "hotel" or "resort" → TRIP (use the hotel/resort name as merchant_short)
