@@ -1,0 +1,242 @@
+{
+  "statement_period": {
+    "from": "2026-02-19",
+    "to": "2026-03-18"
+  },
+  "transactions": [
+    {
+      "date": "2026-02-20",
+      "merchant": "FIRSTCRY 8759 DARP",
+      "description": "FIRSTCRY 8759 DARP FARIDABAD IN",
+      "amount": 2870.35,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "M S Jiana Adventures Llp",
+      "description": "M S Jiana Adventures Llp FARIDABAD IN",
+      "amount": 20849.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "FIRSTCRY FARIDABAD SE",
+      "description": "FIRSTCRY FARIDABAD SE FARIDABAD IN",
+      "amount": 531.75,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "HINDUSTAN PETROLEUM C",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 1111.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "ICICI Bank",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -11.11,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "ICICI Bank",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -2.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "SHIVA CARES",
+      "description": "SHIVA CARES FARIDABAD IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "ICICI Bank",
+      "description": "Fuel Surcharge-OnUs",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "ICICI Bank",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "OMIO BERLIN",
+      "description": "OMIO BERLIN ALEMAN DE*",
+      "amount": 15938.86,
+      "owner": "",
+      "foreign_amount": 145.13,
+      "foreign_currency": "EUR"
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "OM SWEETS PVT LTD",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 409.5,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "POLICYBAZAAR COM",
+      "description": "POLICYBAZAAR COM GURGAON IN",
+      "amount": 6672.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "ITALOTRENO ROMA",
+      "description": "ITALOTRENO ROMA IT*",
+      "amount": 8170.96,
+      "owner": "",
+      "foreign_amount": 74.4,
+      "foreign_currency": "EUR"
+    },
+    {
+      "date": "2026-02-28",
+      "merchant": "INFINITY PAYMENT",
+      "description": "INFINITY PAYMENT RECEIVED, THANK YOU",
+      "amount": -171870.54,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-02",
+      "merchant": "DS VISA FEE VFS",
+      "description": "DS VISA FEE VFS HYDERABAD IN",
+      "amount": 22857.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-08",
+      "merchant": "DA PALERMO PIZZERIA",
+      "description": "DA PALERMO PIZZERIA FARIDABAD IN",
+      "amount": 977.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-08",
+      "merchant": "MAN MOHAN GUPTA",
+      "description": "MAN MOHAN GUPTA Faridabad IN",
+      "amount": 3640.46,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-09",
+      "merchant": "ICICI Bank",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -36.41,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-09",
+      "merchant": "ICICI Bank",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -6.55,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-12",
+      "merchant": "KIDS CLINIC INDIA LIMI",
+      "description": "KIDS CLINIC INDIA LIMI FARIDABAD IN",
+      "amount": 202.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-12",
+      "merchant": "KIDS CLINIC INDIA LIMI",
+      "description": "KIDS CLINIC INDIA LIMI FARIDABAD IN",
+      "amount": 1400.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-12",
+      "merchant": "ITALOTRENO ROMA",
+      "description": "ITALOTRENO ROMA IT*",
+      "amount": -4970.29,
+      "owner": "",
+      "foreign_amount": 47.52,
+      "foreign_currency": "EUR"
+    },
+    {
+      "date": "2026-03-13",
+      "merchant": "KIDS CLINIC INDIA LIMI",
+      "description": "KIDS CLINIC INDIA LIMI FARIDABAD IN",
+      "amount": 148.01,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-13",
+      "merchant": "KIDS CLINIC INDIA LIMI",
+      "description": "KIDS CLINIC INDIA LIMI FARIDABAD IN",
+      "amount": 1000.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-13",
+      "merchant": "KIDS CLINIC INDIA LIMI",
+      "description": "KIDS CLINIC INDIA LIMI FARIDABAD IN",
+      "amount": 522.88,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-13",
+      "merchant": "KIDS CLINIC INDIA LIMI",
+      "description": "KIDS CLINIC INDIA LIMI FARIDABAD IN",
+      "amount": 32.04,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "statement_period": {
+    "from": "2026-05-19",
+    "to": "2026-06-18"
+  },
+  "transactions": [
+    {
+      "date": "2026-06-17",
+      "merchant": "Annual Fee reversal",
+      "description": "Annual Fee reversal",
+      "amount": -12499.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-18",
+      "merchant": "IGST-Rev-BI@18%",
+      "description": "IGST-Rev-BI@18%",
+      "amount": -2249.82,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-19",
+      "merchant": "SAPRU CAR CARE CENTER",
+      "description": "SAPRU CAR CARE CENTER Gurgaon IN",
+      "amount": 1538.76,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-20",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -15.22,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-20",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -2.74,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-20",
+      "merchant": "SAPRU CAR CARE CENTER",
+      "description": "SAPRU CAR CARE CENTER Gurgaon IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-21",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-21",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "SAPRU CAR CARE CENTER",
+      "description": "SAPRU CAR CARE CENTER Gurgaon IN",
+      "amount": 3055.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-27",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -30.22,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-27",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -5.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-31",
+      "merchant": "OM SWEETS PVT LTD",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 273.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-01",
+      "merchant": "KIDS CLINIC INDIA LIMI",
+      "description": "KIDS CLINIC INDIA LIMI FARIDABAD IN",
+      "amount": 750.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-02",
+      "merchant": "HINDUSTAN PETROLEUM C",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 3055.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-03",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -30.22,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-03",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -5.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-02",
+      "merchant": "GREATFRONTEND",
+      "description": "GREATFRONTEND SINGAPORE SG",
+      "amount": 1700.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-03",
+      "merchant": "DCC Fee",
+      "description": "DCC Fee",
+      "amount": 34.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-03",
+      "merchant": "IGST-CI@18%",
+      "description": "IGST-CI@18%",
+      "amount": 6.12,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-06",
+      "merchant": "HUNGER CURE",
+      "description": "HUNGER CURE FARIDABAD IN",
+      "amount": 730.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-06",
+      "merchant": "HUNGER CURE",
+      "description": "HUNGER CURE FARIDABAD IN",
+      "amount": 97.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-06",
+      "merchant": "PEARL FOODS AND FLAVO",
+      "description": "PEARL FOODS AND FLAVO JAIPUR IN",
+      "amount": 395.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-07",
+      "merchant": "LIFE STYLE INTERNATIO",
+      "description": "LIFE STYLE INTERNATIO FARIDABAD IN",
+      "amount": 193.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-09",
+      "merchant": "SAPRU CAR CARE CENTRE",
+      "description": "SAPRU CAR CARE CENTRE Gurgaon IN",
+      "amount": 4067.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-10",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -40.23,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-10",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -7.24,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-17",
+      "merchant": "RK FILL FLY CENTER",
+      "description": "RK FILL FLY CENTER FARIDABAD IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-18",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-18",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-18",
+      "merchant": "Annual Fee - 2nd Year",
+      "description": "Annual Fee - 2nd Year",
+      "amount": 12499.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-18",
+      "merchant": "IGST-CI@18%",
+      "description": "IGST-CI@18%",
+      "amount": 2249.82,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

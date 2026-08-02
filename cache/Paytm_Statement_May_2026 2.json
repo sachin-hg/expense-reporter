@@ -1,0 +1,215 @@
+{
+  "statement_period": {
+    "from": "2026-05-01",
+    "to": "2026-05-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-05-31",
+      "merchant": "Tawama Grills Private Limited",
+      "description": "Paid to Tawama Grills Private Limited, UPI Ref No: 207396954441, Note: c &co, #Food",
+      "amount": 869,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-23",
+      "merchant": "Zomato",
+      "description": "Paid to Zomato, UPI Ref No: 306678454129, #Food",
+      "amount": 600.33,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-17",
+      "merchant": "Bhatia Medicos",
+      "description": "Paid to Bhatia Medicos, UPI Ref No: 306325877104, #Medical",
+      "amount": 90,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "Amit Gupta",
+      "description": "Paid to Amit Gupta, UPI Ref No: 306261806270, #Shopping",
+      "amount": 600,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "Sonu",
+      "description": "Money sent to Sonu, UPI Ref No: 206283104721, #Money Transfer",
+      "amount": 1600,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "Prince CHAAT delhi 1",
+      "description": "Paid to Prince CHAAT delhi 1, UPI Ref No: 606258265491, #Food",
+      "amount": 130,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "Zoe By Bani",
+      "description": "Paid to Zoe By Bani, UPI Ref No: 306259220771, #Shopping",
+      "amount": 4500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "S V Creation",
+      "description": "Money sent to S V Creation, UPI Ref No: 306256414608, #Money Transfer",
+      "amount": 7999,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "Farmud Khan",
+      "description": "Paid to Farmud Khan, UPI Ref No: 606253388621, #Groceries",
+      "amount": 160,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "Mala Mangwani",
+      "description": "Money sent to Mala Mangwani, UPI Ref No: 606250344152, #Money Transfer",
+      "amount": 4500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "Amarjeet",
+      "description": "Paid to Amarjeet, UPI Ref No: 306210936102, #Miscellaneous",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "Baba Ji Restaurant",
+      "description": "Paid to Baba Ji Restaurant, UPI Ref No: 306209457513, #Food",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-14",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh, UPI Ref No: 206122291739, #Groceries",
+      "amount": 160,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-14",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh, UPI Ref No: 604516469618, #Groceries",
+      "amount": 225,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-11",
+      "merchant": "Fresh N Up",
+      "description": "Paid to Fresh N Up, UPI Ref No: 205927505145, #Food",
+      "amount": 310,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-09",
+      "merchant": "IDBI Bank FASTag",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432, UPI Ref No: 205739734214, Order ID: 27004743340, #Bill Payments",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-08",
+      "merchant": "Divyam Goel",
+      "description": "Money sent to Divyam Goel, UPI Ref No: 604161945221, #Money Transfer",
+      "amount": 3263,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-07",
+      "merchant": "Rahul Ahirwar",
+      "description": "Paid to Rahul Ahirwar, UPI Ref No: 205622182154, #Shopping",
+      "amount": 150,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "Zomato Limited",
+      "description": "Paid to Zomato Limited, UPI Ref No: 205532343000, Note: Zomato Payment, #Food",
+      "amount": 706.8,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-04",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria, UPI Ref No: 122612829085, #Money Received",
+      "amount": -28500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-03",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar, UPI Ref No: 301872815177, #Groceries",
+      "amount": 276,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-03",
+      "merchant": "Vijay Thakur",
+      "description": "Paid to Vijay Thakur, UPI Ref No: 603860888409, #Shopping",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "Vansadia Advaitsinh Kiritsinh",
+      "description": "Received from Vansadia Advaitsinh Kiritsinh, UPI Ref No: 122427740905, #Money Received",
+      "amount": -18288,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

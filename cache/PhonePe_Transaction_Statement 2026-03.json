@@ -1,0 +1,17 @@
+{
+  "statement_period": {
+    "from": "2026-03-01",
+    "to": "2026-03-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-03-12",
+      "merchant": "******1942",
+      "description": "Paid to ******1942, Transaction ID: T2603121948570176862091, UTR No: 456679467393, Debited from XX4395",
+      "amount": 35.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

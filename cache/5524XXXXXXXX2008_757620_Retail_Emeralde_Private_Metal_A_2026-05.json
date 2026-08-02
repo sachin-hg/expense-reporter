@@ -1,0 +1,404 @@
+{
+  "statement_period": {
+    "from": "2026-04-19",
+    "to": "2026-05-18"
+  },
+  "transactions": [
+    {
+      "date": "2026-04-19",
+      "merchant": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 3768.71,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-19",
+      "merchant": "LIFE STYLE INTERNATIO FARIDABAD IN",
+      "description": "LIFE STYLE INTERNATIO FARIDABAD IN",
+      "amount": 1299.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-19",
+      "merchant": "LIFE STYLE INTERNATIO FARIDABAD IN",
+      "description": "LIFE STYLE INTERNATIO FARIDABAD IN",
+      "amount": 996.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-20",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -37.27,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-20",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -6.71,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-22",
+      "merchant": "Muhavra Enterprises Pr FARIDABAD IN",
+      "description": "Muhavra Enterprises Pr FARIDABAD IN",
+      "amount": 1080.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "MAN MOHAN GUPTA Faridabad IN",
+      "description": "MAN MOHAN GUPTA Faridabad IN",
+      "amount": 1537.94,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -15.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -2.74,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-23",
+      "merchant": "OM SWEETS PVT LTD FARIDABAD IN",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 2930.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "REWARD 360 GLOBAL SERV BANGALORE IN",
+      "description": "REWARD 360 GLOBAL SERV BANGALORE IN",
+      "amount": 1000.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-24",
+      "merchant": "FIRSTCRY PUNE IN",
+      "description": "FIRSTCRY PUNE IN",
+      "amount": 677.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "DA PALERMO PIZZERIA FARIDABAD IN",
+      "description": "DA PALERMO PIZZERIA FARIDABAD IN",
+      "amount": 515.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "Muhavra Enterprises Pr FARIDABAD IN",
+      "description": "Muhavra Enterprises Pr FARIDABAD IN",
+      "amount": 1649.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "OM SWEETS PVT LTD FARIDABAD IN",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 147.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "OM SWEETS PVT LTD FARIDABAD IN",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 207.9,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "5485 YOUMEE DLF SAKET DELHI IN",
+      "description": "5485 YOUMEE DLF SAKET DELHI IN",
+      "amount": 1143.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "Aydi Restaurants India Pr SOUTH DELHI IN",
+      "description": "Aydi Restaurants India Pr SOUTH DELHI IN",
+      "amount": 998.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "UNIQLO INDIA PVT LTD NEW DELHI IN",
+      "description": "UNIQLO INDIA PVT LTD NEW DELHI IN",
+      "amount": 1980.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "SI BANG HOSPITALITY A NEW DELHI IN",
+      "description": "SI BANG HOSPITALITY A NEW DELHI IN",
+      "amount": 190.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-29",
+      "merchant": "Abhi Bhavi Filling Sta Faridabad IN",
+      "description": "Abhi Bhavi Filling Sta Faridabad IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-30",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-30",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-30",
+      "merchant": "Sapru Car Care Centre GURUGRAM IN",
+      "description": "Sapru Car Care Centre GURUGRAM IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-01",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-02",
+      "merchant": "RELIANCE RETAIL LTD FARIDABAD IN",
+      "description": "RELIANCE RETAIL LTD FARIDABAD IN",
+      "amount": 99711.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-03",
+      "merchant": "Metro FPS MUMBAI IN",
+      "description": "Metro FPS MUMBAI IN",
+      "amount": 1690.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-04",
+      "merchant": "INFINITY PAYMENT RECEIVED, THANK YOU",
+      "description": "INFINITY PAYMENT RECEIVED, THANK YOU",
+      "amount": -21275.5,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-05",
+      "merchant": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 3793.24,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -37.52,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -6.75,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "OM SWEETS PVT LTD FARIDABAD IN",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 409.5,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-06",
+      "merchant": "Muhavra Enterprises Pr FARIDABAD IN",
+      "description": "Muhavra Enterprises Pr FARIDABAD IN",
+      "amount": 672.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-07",
+      "merchant": "M S Fsn Brands Marketing FARIDABAD IN",
+      "description": "M S Fsn Brands Marketing FARIDABAD IN",
+      "amount": 1274.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-10",
+      "merchant": "SAENGMYEONG NAMU INDIA Faridabad IN",
+      "description": "SAENGMYEONG NAMU INDIA Faridabad IN",
+      "amount": 260.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-10",
+      "merchant": "SAENGMYEONG NAMU INDIA Faridabad IN",
+      "description": "SAENGMYEONG NAMU INDIA Faridabad IN",
+      "amount": 450.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "PEARL FOODS AND FLAVO JAIPUR IN",
+      "description": "PEARL FOODS AND FLAVO JAIPUR IN",
+      "amount": 200.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "VEDRA HOSPITALITY LLP FARIDABAD IN",
+      "description": "VEDRA HOSPITALITY LLP FARIDABAD IN",
+      "amount": 426.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-14",
+      "merchant": "SAPRU CAR CARE CENTER Gurgaon IN",
+      "description": "SAPRU CAR CARE CENTER Gurgaon IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-15",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-16",
+      "merchant": "OM SWEETS PVT LTD FARIDABAD IN",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 133.48,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-17",
+      "merchant": "RELIANCE RETAIL LTD FARIDABAD IN",
+      "description": "RELIANCE RETAIL LTD FARIDABAD IN",
+      "amount": 99926.82,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "statement_period": {
+    "from": "2026-05-23",
+    "to": "2026-06-22"
+  },
+  "transactions": [
+    {
+      "date": "2026-05-22",
+      "merchant": "Swiggy",
+      "description": "SwiggyBANGALORE",
+      "amount": 349.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-24",
+      "merchant": "RAZ*Swiggy",
+      "description": "RAZ*SwiggyBangalore",
+      "amount": 501.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-25",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -34.9,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -50.1,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-05",
+      "merchant": "Swiggy Instamart",
+      "description": "SWIGGY INSTAMART PRIVABANGALORE",
+      "amount": 160.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-06",
+      "merchant": "RSP*Instamart",
+      "description": "RSP*INSTAMARTBANGALORE",
+      "amount": 551.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-08",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -55.1,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-08",
+      "merchant": "RAZ*Swiggy",
+      "description": "RAZ*SwiggyBangalore",
+      "amount": 1115.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-10",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -111.5,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-12",
+      "merchant": "Swiggy",
+      "description": "SwiggyBANGALORE",
+      "amount": 176.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-19",
+      "merchant": "RAZ*Swiggy",
+      "description": "RAZ*SwiggyBangalore",
+      "amount": 354.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-21",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -35.4,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-21",
+      "merchant": "RAZ*Swiggy",
+      "description": "RAZ*SwiggyBangalore",
+      "amount": 499.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

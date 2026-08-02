@@ -1,0 +1,71 @@
+{
+  "statement_period": {
+    "from": "2026-01-01",
+    "to": "2026-01-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-01-08",
+      "merchant": "Fresh N Up Cafe",
+      "description": "Paid to Fresh N Up Cafe, Transaction ID: AC232601082115003303835898, UTR No: 157064784385, Debited from XXXX46",
+      "amount": 153.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-10",
+      "merchant": "Md Firoj vegetable",
+      "description": "Paid to Md Firoj vegetable, Transaction ID: AC232601100933501317866517, UTR No: 204174822116, Debited from XXXX46",
+      "amount": 30.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-11",
+      "merchant": "bigbasket",
+      "description": "Paid to bigbasket, Transaction ID: T2601111006040135149165, UTR No: 171851434134, Debited from XXXX46",
+      "amount": 10.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-11",
+      "merchant": "Bhojraj",
+      "description": "Paid to Bhojraj, Transaction ID: T2601111500047797690954, UTR No: 529750302688, Debited from XXXX46",
+      "amount": 100.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-11",
+      "merchant": "RAM PRAKASH GUPTA",
+      "description": "Paid to RAM PRAKASH GUPTA, Transaction ID: T2601111503533385629470, UTR No: 866363782232, Debited from XXXX46",
+      "amount": 270.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-18",
+      "merchant": "Decathlon",
+      "description": "Paid to Decathlon, Transaction ID: T2601181707313735534912, UTR No: 059794081033, Debited from XXXX46",
+      "amount": 299.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-24",
+      "merchant": "VIJAY THAKUR",
+      "description": "Paid to VIJAY THAKUR, Transaction ID: T2601241315490977363508, UTR No: 893270337600, Debited from XXXX46",
+      "amount": 370.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

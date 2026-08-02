@@ -1,0 +1,35 @@
+{
+  "statement_period": {
+    "from": "2026-01-01",
+    "to": "2026-01-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-01-25",
+      "merchant": "Mohammad Ashik",
+      "description": "Paid to Mohammad Ashik UPI ID: paytmqr6x9k8a@ptys UPI Ref No: 698033232544 #Food",
+      "amount": 20,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-12",
+      "merchant": "Everyday Fitness Iconic",
+      "description": "Paid to Everyday Fitness Iconic UPI ID: paytm.d79342763@pta UPI Ref No: 697249487686 #Shopping",
+      "amount": 12000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-04",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria UPI ID: rjtkhajuria-2@okhdfcbank UPI Ref No: 116651306516 #Money Received",
+      "amount": -28500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

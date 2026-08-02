@@ -1,0 +1,35 @@
+{
+  "statement_period": {
+    "from": "2026-02-01",
+    "to": "2026-02-28"
+  },
+  "transactions": [
+    {
+      "date": "2026-02-06",
+      "merchant": "SAURABH KUMAR",
+      "description": "Paid to SAURABH KUMAR, Transaction ID: T2602061001592350963532, UTR No: 914803857099, Debited from XXXX46",
+      "amount": 150.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "MD KAIF",
+      "description": "Paid to MD KAIF, Transaction ID: T2602061013390695986708, UTR No: 145893665383, Debited from XXXX46",
+      "amount": 110.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "PANKAJ",
+      "description": "Paid to PANKAJ, Transaction ID: AC232602081710532931450579, UTR No: 698893075314, Debited from XXXX46",
+      "amount": 250.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "statement_period": {
+    "from": "2026-02-01",
+    "to": "2026-02-28"
+  },
+  "transactions": [
+    {
+      "date": "2026-02-17",
+      "merchant": "Apple Media Services",
+      "description": "Automatic payment of ₹500 setup for Apple Media Services, UPI ID: appleservices.bdsi@hdfcbank, UPI Ref No: 102731993922, Note: Transaction success #Services",
+      "amount": 5,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Dhingra Bakery",
+      "description": "Paid to Dhingra Bakery, UPI ID: paytmqr5exb9o@ptys, UPI Ref No: 200142026145, Note: cake navu #Food",
+      "amount": 500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Md Kalim",
+      "description": "Paid to Md Kalim, UPI ID: paytmqrf3rylzba0u@paytm, UPI Ref No: 397253215998, Note: sabzi #Services",
+      "amount": 245,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Om Parkash",
+      "description": "Paid to Om Parkash, UPI ID: bharatpe.9b0e0e0h1p951769@unitype, UPI Ref No: 200097351855, Note: Pay to BharatPe Merchant #Groceries",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Manoj Kumar Ray",
+      "description": "Paid to Manoj Kumar Ray, UPI ID: paytmqr70lmhh@ptys, UPI Ref No: 397252786085, Note: sabzi #Medical",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Mr MD GULJAR",
+      "description": "Paid to Mr MD GULJAR, UPI ID: paytmqr6xnt4y@ptys, UPI Ref No: 699266778054, Note: sabzi #Groceries",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Santaj",
+      "description": "Money sent to Santaj, UPI ID: 8700647321@axl, UPI Ref No: 397252386780, Note: sabzi #Money Transfer",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Mahender Saini",
+      "description": "Paid to Mahender Saini, UPI ID: paytmqr6dhn7a@ptys, UPI Ref No: 699266419793, Note: sabzi #Groceries",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Joginder S O Puran Chand",
+      "description": "Paid to Joginder S O Puran Chand, UPI ID: q919925567@ybl, UPI Ref No: 397252062920, Note: aalu #Groceries",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Joginder So Puran Chand",
+      "description": "Paid to Joginder So Puran Chand, UPI ID: paytmqr6wlbca@ptys, UPI Ref No: 699266156378 #Services",
+      "amount": 20,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Md Kaif",
+      "description": "Paid to Md Kaif, UPI ID: paytm.s1xgueb@pty, UPI Ref No: 200096147197 #Food",
+      "amount": 140,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Rishabh Jain",
+      "description": "Paid to Rishabh Jain, UPI ID: paytm.s1um0sl@pty, UPI Ref No: 200095571616, Note: sabzi #Groceries",
+      "amount": 55,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "Nykaa E retail Private Limited",
+      "description": "Paid to Nykaa E retail Private Limited, UPI ID: nykaa.payu@icici, UPI Ref No: 299944815234, Note: UPIIntent #Shopping",
+      "amount": 109,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-03",
+      "merchant": "Bachhav Pratik Ramakant",
+      "description": "Received from Bachhav Pratik Ramakant, UPI ID: 7588078188@ptsbi, UPI Ref No: 603427934672 #Money Received",
+      "amount": -20000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-02",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria, UPI ID: rjtkhajuria-2@okhdfcbank, UPI Ref No: 118078565377 #Money Received",
+      "amount": -28500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

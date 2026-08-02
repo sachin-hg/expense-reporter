@@ -27,7 +27,7 @@ logging.basicConfig(
 logger = logging.getLogger("expense_reporter")
 
 
-def get_report_month(override: str | None) -> tuple[int, int]:
+def get_report_month(override) -> tuple:
     """Return (year, month) to report on. Defaults to the calendar month before today."""
     if override:
         try:
@@ -79,14 +79,39 @@ def main():
         action="store_true",
         help="Skip email fetch; use PDF files already in data/",
     )
+    parser.add_argument(
+        "--force-fresh",
+        action="store_true",
+        help="Ignore cached Claude extractions and re-process all PDFs",
+    )
+    parser.add_argument(
+        "--local",
+        metavar="FOLDER",
+        help=(
+            "Process PDFs from a local folder instead of fetching from Gmail. "
+            "Without --month, generates reports for every calendar month found in the statements. "
+            "PDF passwords: set PASS_<first4charsOfFilename>=<password> in .env"
+        ),
+    )
     args = parser.parse_args()
 
-    year, month = get_report_month(args.month)
-    month_label = f"{year}-{month:02d}"
-    logger.info(f"Generating expense report for {month_label}")
+    local_mode = bool(args.local)
+    all_months_mode = local_mode and not args.month
+
+    # Resolve target month(s) — deferred to post-classification for all_months_mode
+    year = month = month_label = None
+    if not all_months_mode:
+        year, month = get_report_month(args.month)
+        month_label = f"{year}-{month:02d}"
+        logger.info(f"Generating expense report for {month_label}")
 
     # 1. Fetch PDFs ─────────────────────────────────────────────────────
-    if args.skip_fetch:
+    if local_mode:
+        from src.local_fetcher import load_local_pdfs
+
+        logger.info(f"Local mode: loading PDFs from {args.local}")
+        pdf_results = load_local_pdfs(args.local)
+    elif args.skip_fetch:
         logger.info("--skip-fetch: loading PDFs from data/")
         pdf_results = load_cached_pdfs()
     else:
@@ -96,6 +121,17 @@ def main():
         fetcher = GmailFetcher()
         pdf_results = fetcher.fetch_pdfs(year, month)
 
+    # When targeting a single month in local mode, skip PDFs that clearly belong to
+    # other months — saves API calls for large historical folders.
+    if local_mode and not all_months_mode:
+        from src.local_fetcher import is_relevant_for_month
+
+        before = len(pdf_results)
+        pdf_results = [p for p in pdf_results if is_relevant_for_month(p.subject, year, month)]
+        skipped = before - len(pdf_results)
+        if skipped:
+            logger.info(f"Skipped {skipped} PDF(s) outside {month_label} — not relevant")
+
     logger.info(f"PDFs to process: {len(pdf_results)}")
     if not pdf_results:
         logger.warning("No statement PDFs found — generating empty report")
@@ -104,14 +140,16 @@ def main():
     from src.statement_processor import StatementProcessor
 
     logger.info("Extracting transactions with Claude...")
-    processor = StatementProcessor()
+    processor = StatementProcessor(force_fresh=args.force_fresh)
     all_transactions = []
 
     for pdf in pdf_results:
         logger.info(f"  Processing: {pdf.subject[:70]}")
         try:
             txns = processor.process(pdf)
-            logger.info(f"    → {len(txns)} transactions")
+            debits = sum(1 for t in txns if t.amount > 0)
+            refunds = sum(1 for t in txns if t.amount < 0)
+            logger.info(f"    → {debits} transactions, {refunds} refunds")
             all_transactions.extend(txns)
         except Exception as e:
             logger.error(f"    ✗ Failed: {e}")
@@ -125,13 +163,30 @@ def main():
     classifier = ExpenseClassifier()
     classified = classifier.classify(all_transactions)
 
-    # 4. Generate report ─────────────────────────────────────────────────
+    # 4. Generate report(s) ──────────────────────────────────────────────
     from src.report_generator import ReportGenerator
 
-    logger.info("Generating markdown report...")
+    logger.info("Generating markdown report(s)...")
     generator = ReportGenerator()
-    report_path = generator.generate(classified, year, month)
-    logger.info(f"Report saved → {report_path}")
+
+    if all_months_mode:
+        # Discover all calendar months represented in the transactions
+        months = sorted(set((t.date.year, t.date.month) for t in classified))
+        if not months:
+            logger.warning("No transactions found — no reports generated")
+            return
+        logger.info(
+            f"Found {len(months)} months: {', '.join(f'{y}-{m:02d}' for y, m in months)}"
+        )
+        report_entries = []  # list of (path, year, month)
+        for yr, mo in months:
+            rpath = generator.generate(classified, yr, mo)
+            logger.info(f"  Saved → {rpath}")
+            report_entries.append((rpath, yr, mo))
+    else:
+        report_path = generator.generate(classified, year, month)
+        logger.info(f"Report saved → {report_path}")
+        report_entries = [(report_path, year, month)]
 
     # 5. Push to GitHub ──────────────────────────────────────────────────
     if not args.no_push:
@@ -140,15 +195,20 @@ def main():
         logger.info("Pushing to GitHub (sachin-hg/expense-reporter)...")
         try:
             pusher = GitHubPusher()
-            pusher.push(report_path, year, month)
+            pusher.push_all(report_entries)
             logger.info("Pushed successfully")
         except RuntimeError as e:
             logger.error(f"GitHub push failed: {e}")
-            logger.info(f"Report is available locally at {report_path}")
+            for rpath, _, _ in report_entries:
+                logger.info(f"  Report available locally at {rpath}")
     else:
         logger.info("--no-push: skipping GitHub push")
 
-    print(f"\n✓ Done — {month_label} report complete: {report_path}")
+    if all_months_mode:
+        labels = ", ".join(f"{y}-{m:02d}" for y, m in months)
+        print(f"\n✓ Done — reports generated for: {labels}")
+    else:
+        print(f"\n✓ Done — {month_label} report complete: {report_entries[0][0]}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,53 @@
+{
+  "statement_period": {
+    "from": "2026-04-01",
+    "to": "2026-04-30"
+  },
+  "transactions": [
+    {
+      "date": "2026-04-11",
+      "merchant": "BBNOW",
+      "description": "Paid to BBNOW",
+      "amount": 101.52,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-11",
+      "merchant": "BBNOW",
+      "description": "Paid to BBNOW",
+      "amount": 212.08,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-22",
+      "merchant": "SAI COMMUNICATION",
+      "description": "Paid to SAI COMMUNICATION",
+      "amount": 350.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-27",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar",
+      "amount": 110.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-28",
+      "merchant": "BHATIA MEDICOS",
+      "description": "Paid to BHATIA MEDICOS",
+      "amount": 90.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

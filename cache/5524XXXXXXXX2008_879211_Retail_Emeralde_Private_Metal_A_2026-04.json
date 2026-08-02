@@ -1,0 +1,368 @@
+{
+  "statement_period": {
+    "from": "2026-03-19",
+    "to": "2026-04-18"
+  },
+  "transactions": [
+    {
+      "date": "2026-03-19",
+      "merchant": "Sapru Car Care Centre",
+      "description": "Sapru Car Care Centre GURUGRAM IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-20",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-20",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-21",
+      "merchant": "OMIO BERLIN",
+      "description": "OMIO BERLIN ALEMAN DE*",
+      "amount": -10800.6,
+      "owner": "",
+      "foreign_amount": 101.49,
+      "foreign_currency": "EUR"
+    },
+    {
+      "date": "2026-03-24",
+      "merchant": "THE AUTO SUPPLY COMPAN",
+      "description": "THE AUTO SUPPLY COMPAN FARIDABAD IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-25",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-25",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-24",
+      "merchant": "I SHOP",
+      "description": "I SHOP HTTPS://ISHOP IN",
+      "amount": 30598.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-24",
+      "merchant": "KIDS CLINIC INDIA LIMI",
+      "description": "KIDS CLINIC INDIA LIMI FARIDABAD IN",
+      "amount": 22000.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-28",
+      "merchant": "HINDUSTAN PETROLEUM C",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 2028.92,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-29",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.29,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-29",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.65,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-31",
+      "merchant": "HINDUSTAN PETROLEUM C",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-01",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-01",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-01",
+      "merchant": "FIRSTCRY",
+      "description": "FIRSTCRY PUNE IN",
+      "amount": 961.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-02",
+      "merchant": "HINDUSTAN PETROLEUM C",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-03",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-03",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-03",
+      "merchant": "Venus Desires5",
+      "description": "Venus Desires5 FARIDABAD IN",
+      "amount": 1575.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-03",
+      "merchant": "FIRSTCRY",
+      "description": "FIRSTCRY PUNE IN",
+      "amount": 742.22,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-03",
+      "merchant": "OM SWEETS PVT LTD",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 325.5,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-04",
+      "merchant": "Burma Burma Restauran",
+      "description": "Burma Burma Restauran GAUTAM BUDDH IN",
+      "amount": 1744.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-04",
+      "merchant": "BISHAMBER SAHAI AND S",
+      "description": "BISHAMBER SAHAI AND S GAUTAM BUDDHA IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-04",
+      "merchant": "UNIQLO INDIA PRIVATE",
+      "description": "UNIQLO INDIA PRIVATE NOIDA IN",
+      "amount": 3980.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-04",
+      "merchant": "HENNES N MAURITZ",
+      "description": "HENNES N MAURITZ NOIDA IN",
+      "amount": 2598.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-05",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-05",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-07",
+      "merchant": "Sapru Car Care Centre",
+      "description": "Sapru Car Care Centre GURUGRAM IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-08",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-08",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-07",
+      "merchant": "I SHOP",
+      "description": "I SHOP HTTPS://ISHOP IN",
+      "amount": -37470.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-09",
+      "merchant": "Refund Amt Transfer to Bank Acc XX2354",
+      "description": "Refund Amt Transfer to Bank Acc XX2354",
+      "amount": 37470.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-08",
+      "merchant": "VEDRA HOSPITALITY LLP",
+      "description": "VEDRA HOSPITALITY LLP FARIDABAD IN",
+      "amount": 389.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-13",
+      "merchant": "Westside",
+      "description": "Westside FARIDABAD IN",
+      "amount": 799.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-13",
+      "merchant": "HENNES N MAURITZ",
+      "description": "HENNES N MAURITZ FARIDABAD IN",
+      "amount": 2498.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-14",
+      "merchant": "SAPRU CAR CARE CENTER",
+      "description": "SAPRU CAR CARE CENTER GURGAON IN",
+      "amount": 3474.12,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-16",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -34.36,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-16",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -6.19,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-07",
+      "merchant": "I SHOP",
+      "description": "I SHOP HTTPS://ISHOP IN",
+      "amount": -64526.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

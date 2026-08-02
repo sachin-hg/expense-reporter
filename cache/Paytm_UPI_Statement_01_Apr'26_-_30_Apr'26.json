@@ -1,0 +1,98 @@
+{
+  "statement_period": {
+    "from": "2026-04-01",
+    "to": "2026-04-30"
+  },
+  "transactions": [
+    {
+      "date": "2026-04-29",
+      "merchant": "Bigbasket",
+      "description": "Paid to Bigbasket, UPI Ref No: 301647880200, Note: Pay #Groceries, HDFC Bank Rupay Credit Card - 46",
+      "amount": 219.28,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-26",
+      "merchant": "Mr Kuldeep",
+      "description": "Money sent to Mr Kuldeep, UPI Ref No: 603465783109 #Money Transfer, ICICI Bank - 54",
+      "amount": 477.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-19",
+      "merchant": "Bigbasket",
+      "description": "Paid to Bigbasket, UPI Ref No: 301057221840, Note: Pay #Groceries, HDFC Bank Rupay Credit Card - 46",
+      "amount": 335.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-19",
+      "merchant": "Innovative Retail Concept",
+      "description": "Paid to Innovative Retail Concept, UPI Ref No: 204318022480, Note: 5394946097 #Groceries, HDFC Bank Rupay Credit Card - 46",
+      "amount": 228.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-19",
+      "merchant": "Innovative Retail Concepts Private Limited",
+      "description": "Paid to Innovative Retail Concepts Private Limited, UPI Ref No: 301034969858, Note: 5394859849 #Miscellaneous, HDFC Bank Rupay Credit Card - 46",
+      "amount": 540.3,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-12",
+      "merchant": "Meesho",
+      "description": "Paid to Meesho, UPI Ref No: 203836872596, Note: UPI Intent #Shopping, HDFC Bank Rupay Credit Card - 46",
+      "amount": 519.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-10",
+      "merchant": "Suraj Yadav",
+      "description": "Money sent to Suraj Yadav, UPI Ref No: 203705848899 #Money Transfer, ICICI Bank - 54",
+      "amount": 103.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-10",
+      "merchant": "Swiggy",
+      "description": "Paid to Swiggy, UPI Ref No: 300492051311 #Food, HDFC Bank Rupay Credit Card - 46",
+      "amount": 942.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-02",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria, UPI Ref No: 120987181656 #Money Received, ICICI Bank - 54",
+      "amount": -28500.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-01",
+      "merchant": "Vansadia Advaitsinh Kiritsinh",
+      "description": "Received from Vansadia Advaitsinh Kiritsinh, UPI Ref No: 645790657135 #Money Received, ICICI Bank - 54",
+      "amount": -20000.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

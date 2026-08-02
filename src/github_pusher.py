@@ -9,6 +9,27 @@ logger = logging.getLogger(__name__)
 
 
 class GitHubPusher:
+    def push_all(self, report_paths: list):
+        """Commit and push multiple monthly reports in a single git commit."""
+        files_to_add = []
+        labels = []
+        for report_path, year, month in report_paths:
+            files_to_add.append(str(report_path))
+            json_path = report_path.with_suffix(".json")
+            if json_path.exists():
+                files_to_add.append(str(json_path))
+            labels.append(f"{calendar.month_abbr[month]} {year}")
+
+        self._run(["git", "add"] + files_to_add)
+        msg = (
+            f"report: add {labels[0]} expense report"
+            if len(labels) == 1
+            else f"report: add expense reports for {', '.join(labels)}"
+        )
+        self._run(["git", "commit", "-m", msg])
+        self._run(["git", "push"])
+        logger.info(f"Pushed {len(report_paths)} report(s) to GitHub")
+
     def push(self, report_path: Path, year: int, month: int):
         month_name = calendar.month_name[month]
         json_path = report_path.with_suffix(".json")

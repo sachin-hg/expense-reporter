@@ -1,0 +1,35 @@
+{
+  "statement_period": {
+    "from": "2026-03-01",
+    "to": "2026-03-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-03-23",
+      "merchant": "Fresh N Up",
+      "description": "Paid to Fresh N Up UPI ID: q934737931@ybl UPI Ref No: 399454212321 #Food",
+      "amount": 175,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-02",
+      "merchant": "Vansadia Advaitsinh Kiritsinh",
+      "description": "Received from Vansadia Advaitsinh Kiritsinh UPI ID: advait.126@okhdfcbank UPI Ref No: 119395320274 #Money Received",
+      "amount": -20000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-01",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria UPI ID: rjtkhajuria-2@okhdfcbank UPI Ref No: 119328322023 #Money Received",
+      "amount": -28500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "statement_period": {
+    "from": "2026-05-01",
+    "to": "2026-05-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-05-30",
+      "merchant": "CINEPOLIS",
+      "description": "Paid to CINEPOLIS UPI Ref No: 207290324459 Note: Payment for C1366TXN60199 #Entertainment",
+      "amount": 290,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-30",
+      "merchant": "CINEPOLIS",
+      "description": "Paid to CINEPOLIS UPI Ref No: 307082007352 Note: Payment for C1366TXN60167 #Entertainment",
+      "amount": 360,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-28",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI Ref No: 306974958103 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-28",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 606964010556 #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI Ref No: 306860769358 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 306860076818 #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 614620017000 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-26",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 306838853999 #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-25",
+      "merchant": "Mcdonalds",
+      "description": "Paid to Mcdonalds UPI Ref No: 306797296006 #Food",
+      "amount": 86.1,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-25",
+      "merchant": "Haseen Abbas",
+      "description": "Money sent to Haseen Abbas UPI Ref No: 206937114250 #Money Transfer",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-24",
+      "merchant": "Bhatia Medicos",
+      "description": "Paid to Bhatia Medicos UPI Ref No: 614477900337 #Medical",
+      "amount": 85,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-24",
+      "merchant": "Aseem Rastogi",
+      "description": "Money sent to Aseem Rastogi UPI Ref No: 206849330241 #Money Transfer",
+      "amount": 31999,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-21",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI Ref No: 306557699539 #Groceries",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-21",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 606552131497 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-21",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 614143314717 #Groceries",
+      "amount": 160,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-20",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 206551413594 #Groceries",
+      "amount": 210,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-19",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI Ref No: 306446163334 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-19",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 606437477600 #Groceries",
+      "amount": 110,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-19",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 613900565705 #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-19",
+      "merchant": "IDBI Bank FASTag",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432 UPI Ref No: 206470377033 Order ID: 27049181970 #Bill Payments",
+      "amount": 200,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-12",
+      "merchant": "IDBI Bank FASTag",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432 UPI Ref No: 205956790704 Order ID: 27018274148 #Bill Payments",
+      "amount": 200,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-10",
+      "merchant": "HDFC Bank Credit Card XXXX 8870",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 8870 UPI Ref No: 205813666723 Order ID: 27009179576 #Bill Payments",
+      "amount": 1843,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-10",
+      "merchant": "HDFC Bank Credit Card XXXX 2378",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 2378 UPI Ref No: 613078259315 Order ID: 27009422844 #Bill Payments",
+      "amount": 9975,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-05-05",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 603993546554 #Groceries",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

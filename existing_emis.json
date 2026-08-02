@@ -1,0 +1,47 @@
+[
+  {
+    "identifier": "00000135614764",
+    "label": "Health Insurance EMI",
+    "category": "utilities",
+    "start_month": "2026-01",
+    "duration_months": 12,
+    "original_amount": 106408.00
+  },
+  {
+    "type": "override",
+    "identifier": "ishop",
+    "date": "2026-01-26",
+    "amount": 2000,
+    "category": "baby",
+    "label": "FirstCry"
+  },
+  {
+    "type": "suppress",
+    "identifier": "yatra",
+    "date": "2026-05-04",
+    "amount": 34780
+  },
+  {
+    "type": "override",
+    "identifier": "goibibo",
+    "date": "2026-05-31",
+    "amount": 23924,
+    "category": "rohan",
+    "label": "GoIbibo Flight (Rohan)",
+    "amount_override": 79744
+  },
+  {
+    "type": "suppress",
+    "identifier": "reliance retail",
+    "date": "2026-05-17",
+    "amount": 99926.82
+  },
+  {
+    "type": "override",
+    "identifier": "reliance retail",
+    "date": "2026-05-02",
+    "amount": 99711,
+    "category": "one_time",
+    "label": "Laptop"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "identifier": "00000135614764",
+    "label": "Health Insurance EMI",
+    "category": "utilities",
+    "start_month": "2026-01",
+    "duration_months": 12,
+    "original_amount": 106408.00
+  }
+]

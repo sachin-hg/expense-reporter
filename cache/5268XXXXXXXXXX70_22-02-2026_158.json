@@ -1,0 +1,62 @@
+{
+  "statement_period": {
+    "from": "2026-01-23",
+    "to": "2026-02-22"
+  },
+  "transactions": [
+    {
+      "date": "2026-01-22",
+      "merchant": "PYU*Swiggy Food",
+      "description": "EMI PYU*Swiggy FoodBangalore",
+      "amount": 4680.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-07",
+      "merchant": "Swiggy",
+      "description": "ADJ 10% Swiggy BLCK Cashback",
+      "amount": -445.6,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-07",
+      "merchant": "Swiggy",
+      "description": "ADJ 5% Swiggy ORNGE CB",
+      "amount": -222.8,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-13",
+      "merchant": "PYU*Instamart Grocery",
+      "description": "PYU*Instamart GroceryBangalore",
+      "amount": 235.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "PYU*Swiggy Food",
+      "description": "PYU*Swiggy FoodBangalore",
+      "amount": 193.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-20",
+      "merchant": "PYU*Swiggy Food",
+      "description": "PYU*Swiggy FoodBangalore",
+      "amount": 527.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

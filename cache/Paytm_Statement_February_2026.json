@@ -1,0 +1,521 @@
+{
+  "statement_period": {
+    "from": "2026-02-01",
+    "to": "2026-02-28"
+  },
+  "transactions": [
+    {
+      "date": "2026-02-28",
+      "merchant": "Lingadurai S",
+      "description": "Paid to Lingadurai S UPI ID: q860796758@ybl UPI Ref No: 398114217465 #Food",
+      "amount": 130,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-28",
+      "merchant": "Manoj Chaudhari",
+      "description": "Paid to Manoj Chaudhari UPI ID: q430610902@ybl UPI Ref No: 600116048166 #Shopping",
+      "amount": 403,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-28",
+      "merchant": "Alok Color Lab",
+      "description": "Paid to Alok Color Lab UPI ID: paytm.s1kxaqn@pty UPI Ref No: 600095715235 #Shopping",
+      "amount": 360,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-28",
+      "merchant": "Sushma Devi",
+      "description": "Paid to Sushma Devi UPI ID: q022135861@ybl UPI Ref No: 605925809288 #Shopping",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-28",
+      "merchant": "Sushma Devi",
+      "description": "Paid to Sushma Devi UPI ID: q022135861@ybl UPI Ref No: 398092127022 Note: tshirt #Shopping",
+      "amount": 150,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-28",
+      "merchant": "HP Service Center",
+      "description": "Paid to HP Service Center UPI ID: paytm-82211111@ptys UPI Ref No: 398090248704 #Fuel",
+      "amount": 2020,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-26",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.169282031093@hdfcbank UPI Ref No: 397963346107 #Groceries",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-26",
+      "merchant": "IDBI Bank FASTag",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432 UPI ID: ptmfvt@ptybl UPI Ref No: 200860985527 Order ID: 26673564098 #Bill Payments",
+      "amount": 1500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-25",
+      "merchant": "Fresh N Up",
+      "description": "Paid to Fresh N Up UPI ID: q934737931@ybl UPI Ref No: 397926505431 #Services",
+      "amount": 258,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-25",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.169282031093@hdfcbank UPI Ref No: 397916516533 #Entertainment",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-25",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.169282031093@hdfcbank UPI Ref No: 397916031629 #Shopping",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-25",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.169282031093@hdfcbank UPI Ref No: 397901565209 #Food",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-24",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.169282031093@hdfcbank UPI Ref No: 397865734248 #Groceries",
+      "amount": 85,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-24",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.169282031093@hdfcbank UPI Ref No: 200751406148 #Groceries",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-24",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 200738890960 #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "Ulbharyana",
+      "description": "Paid to Ulbharyana UPI ID: ulbharyana.payu@hdfcbank UPI Ref No: 102766403741 Note: Upi Transaction #Bill Payments",
+      "amount": 3024,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "Ulbharyana",
+      "description": "Paid to Ulbharyana UPI ID: ulbharyana.payu@hdfcbank UPI Ref No: 102766381533 Note: Upi Transaction #Bill Payments",
+      "amount": 1743,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "Dakshin Haryana Bijli Vitran Nigam Limited",
+      "description": "Paid to Dakshin Haryana Bijli Vitran Nigam Limited UPI ID: paytm-45357751@ptybl UPI Ref No: 200698420379 #Bill Payments",
+      "amount": 16650,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-23",
+      "merchant": "Mrs DULI MARDI",
+      "description": "Money sent to Mrs DULI MARDI A/c No: State Bank Of India- 2141 UPI Ref No: 699805605723 Note: maya aunty #Money Transfer",
+      "amount": 2500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "New Fashioners",
+      "description": "Paid to New Fashioners UPI ID: newfashioners.67011520@hdfcbank UPI Ref No: 699676857566 #Shopping",
+      "amount": 295,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-21",
+      "merchant": "Raj Kumar",
+      "description": "Paid to Raj Kumar UPI ID: paytmqr6wt0f2@ptys UPI Ref No: 699669699727 #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-20",
+      "merchant": "Anil Kumar Roriya",
+      "description": "Money sent to Anil Kumar Roriya UPI ID: 9910624188@ptyes UPI Ref No: 200515320086 #Money Transfer",
+      "amount": 19840,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-20",
+      "merchant": "Default",
+      "description": "Paid to Default UPI ID: vyapar.170923506820@hdfcbank UPI Ref No: 200500527199 #Medical",
+      "amount": 175,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-19",
+      "merchant": "Kashish Chhabra",
+      "description": "Paid to Kashish Chhabra UPI ID: q508082941@ybl UPI Ref No: 397605548691 #Food",
+      "amount": 156,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-18",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 200373418048 #Groceries",
+      "amount": 90,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI ID: paytmqr6ko63o@ptys UPI Ref No: 397469105673 Note: Verified Paytm Merchant #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 200329335491 #Groceries",
+      "amount": 125,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 397440737221 #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 397440733543 #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "Mr Krishan Kumar Dhamija",
+      "description": "Paid to Mr Krishan Kumar Dhamija UPI ID: q038210654@ybl UPI Ref No: 397357447249 #Shopping",
+      "amount": 1230,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "Mr Surya Prakash Sharma",
+      "description": "Paid to Mr Surya Prakash Sharma UPI ID: q554569059@ybl UPI Ref No: 200209071970 #Shopping",
+      "amount": 550,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "Sachin",
+      "description": "Money sent to Sachin UPI ID: 9311083078-3@ibl UPI Ref No: 200203835660 #Money Transfer",
+      "amount": 7600,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "Vijay Thakur",
+      "description": "Paid to Vijay Thakur UPI ID: paytmqr281005050101fo07u2yj48f2@paytm UPI Ref No: 699342610995 #Shopping",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "Dhingra Bakery",
+      "description": "Paid to Dhingra Bakery UPI ID: paytmqr5exb9o@ptys UPI Ref No: 200184146186 #Food",
+      "amount": 730,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "Om Sweets Pvt Ltd",
+      "description": "Paid to Om Sweets Pvt Ltd UPI ID: pinelabs.10346066@pineaxis UPI Ref No: 200183301443 #Food",
+      "amount": 211,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Seraj So Kutubuddin",
+      "description": "Money sent to Seraj So Kutubuddin UPI ID: serajalam95012@okaxis UPI Ref No: 200131080523 #Money Transfer",
+      "amount": 6000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Navdeep",
+      "description": "Money sent to Navdeep UPI ID: navis899-1@oksbi UPI Ref No: 397280411476 #Money Transfer",
+      "amount": 450,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "Raj Kumar",
+      "description": "Paid to Raj Kumar UPI ID: paytmqr6wt0f2@ptys UPI Ref No: 699273046976 #Groceries",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "Kashish Chhabra",
+      "description": "Paid to Kashish Chhabra UPI ID: q508082941@ybl UPI Ref No: 397105112063 #Food",
+      "amount": 188,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "IDBI Bank FASTag",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432 UPI ID: ptmfvt@ptybl UPI Ref No: 299924428522 Order ID: 26608422660 #Bill Payments",
+      "amount": 1500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI ID: paytmqr6ko63o@ptys UPI Ref No: 397098913831 Note: Verified Paytm Merchant #Groceries",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 397098475877 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "Airtel Mobile",
+      "description": "Bill Payment of Airtel Mobile 9289490333 UPI ID: paybil3066@ptybl UPI Ref No: 299898484071 Order ID: 26606857563 #Bill Payments",
+      "amount": 1532.82,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 397076431421 #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-10",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 699064861086 #Groceries",
+      "amount": 115,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-10",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 397016497334 #Groceries",
+      "amount": 95,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-09",
+      "merchant": "Om Sweets Pvt Ltd",
+      "description": "Paid to Om Sweets Pvt Ltd UPI ID: omsweetspvtltd.42616652@hdfcbank UPI Ref No: 698975999117 #Food",
+      "amount": 136.5,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-09",
+      "merchant": "Om Sweets Pvt Ltd",
+      "description": "Paid to Om Sweets Pvt Ltd UPI ID: omsweetspvtltd.42616652@hdfcbank UPI Ref No: 396951337919 #Food",
+      "amount": 273,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "Bhatia Medicos",
+      "description": "Paid to Bhatia Medicos UPI ID: paytmqr6vr79w@ptys UPI Ref No: 396928129067 #Medical",
+      "amount": 40,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "Sethis delicacy",
+      "description": "Paid to Sethis delicacy UPI ID: paytmqr6n2skx@ptys UPI Ref No: 396917552581 #Groceries",
+      "amount": 230,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-07",
+      "merchant": "M s d p Saini Florist And Bakers",
+      "description": "Paid to M s d p Saini Florist And Bakers UPI ID: 9599055427.eazypay@icici UPI Ref No: 396826202679 #Food",
+      "amount": 500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar UPI ID: 9891938366-1@okbizaxis UPI Ref No: 396770812090 #Groceries",
+      "amount": 152,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "Md Firoz Alam",
+      "description": "Paid to Md Firoz Alam UPI ID: paytmqr6p6hui@ptys UPI Ref No: 603750668553 #Groceries",
+      "amount": 20,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-04",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI ID: paytmqr6ko63o@ptys UPI Ref No: 396681873674 Note: Verified Paytm Merchant #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-04",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI ID: vyapar.171105068913@hdfcbank UPI Ref No: 396660664670 #Groceries",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-03",
+      "merchant": "Sachin",
+      "description": "Money sent to Sachin UPI ID: tmcstudiox@okaxis UPI Ref No: 396618780561 #Money Transfer",
+      "amount": 1900,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-02",
+      "merchant": "Jasleen Kaur",
+      "description": "Paid to Jasleen Kaur UPI ID: q616775536@ybl UPI Ref No: 698536281911 #Food",
+      "amount": 180,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

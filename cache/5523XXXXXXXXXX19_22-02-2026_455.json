@@ -1,0 +1,638 @@
+{
+  "statement_period": {
+    "from": "2026-01-23",
+    "to": "2026-02-22"
+  },
+  "transactions": [
+    {
+      "date": "2026-01-22",
+      "merchant": "IGST",
+      "description": "IGST-VPS2602343226034-RATE 18.0 -06 (Ref# MT260230076000010002256)",
+      "amount": 0.99,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-22",
+      "merchant": "IGST",
+      "description": "IGST-VPS2602343226037-RATE 18.0 -06 (Ref# MT260230076000010002257)",
+      "amount": 0.99,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-22",
+      "merchant": "IGST",
+      "description": "IGST-VPS2602343226040-RATE 18.0 -06 (Ref# 09999999980122007611471)",
+      "amount": 135.54,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-23",
+      "merchant": "Global Value",
+      "description": "Global Value_Cash Back",
+      "amount": -202.51,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-23",
+      "merchant": "IGST",
+      "description": "IGST-VPS2602444634858-RATE 18.0 -06 (Ref# MT260240079000010002331)",
+      "amount": 0.99,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-26",
+      "merchant": "IGST",
+      "description": "IGST-VPS2602746315730-RATE 18.0 -06 (Ref# MT260270076000010016248)",
+      "amount": 7.82,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-27",
+      "merchant": "OPENAI *CHATGPT SUBSCR",
+      "description": "OPENAI *CHATGPT SUBSCRSAN FRANCISC",
+      "amount": 399.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-27",
+      "merchant": "EVERSUB INDIA PRIVATEL",
+      "description": "EVERSUB INDIA PRIVATELGURUGRAM",
+      "amount": 177.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-28",
+      "merchant": "IGST",
+      "description": "IGST-VPS2602950979791-RATE 18.0 -06 (Ref# MT260290076000010002379)",
+      "amount": 39.94,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-28",
+      "merchant": "IGST",
+      "description": "IGST-VPS2602950979792-RATE 18.0 -06 (Ref# MT260290076000010016064)",
+      "amount": 3.22,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-28",
+      "merchant": "CONNAUGHT PLAZA RESTAU",
+      "description": "CONNAUGHT PLAZA RESTAUGURGAON",
+      "amount": 237.3,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-29",
+      "merchant": "HDFC Bank",
+      "description": "1% on all DCC Transaction (Ref# ST260300084000011318884)",
+      "amount": 3.99,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-29",
+      "merchant": "IGST",
+      "description": "IGST-VPS2603053563162-RATE 18.0 -06 (Ref# ST260300084000011318884)",
+      "amount": 0.72,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-30",
+      "merchant": "WSA COCO DAUSA 172 RHS",
+      "description": "EMI WSA COCO DAUSA 172 RHSLAWAN",
+      "amount": 3035.4,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-30",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -30.05,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-01",
+      "merchant": "PAY*WWW HOPSCOTCH IN",
+      "description": "EMI PAY*WWW HOPSCOTCH INGURGAON",
+      "amount": 4953.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-01",
+      "merchant": "MYNTRA VIA SMARTBUY",
+      "description": "MYNTRA VIA SMARTBUYGURGAON",
+      "amount": 800.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-03",
+      "merchant": "IGST",
+      "description": "IGST-VPS2603566922324-RATE 18.0 -06 (Ref# MT260350076000010004267)",
+      "amount": 10.34,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-03",
+      "merchant": "MYNTRA VIA SMARTBUY",
+      "description": "MYNTRA VIA SMARTBUYGURGAON",
+      "amount": -153.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-04",
+      "merchant": "CT FLIGHT VIA SMARTBU",
+      "description": "EMI CT FLIGHT VIA SMARTBUBANGALORE",
+      "amount": 13492.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-04",
+      "merchant": "DOMINOS PIZZA",
+      "description": "DOMINOS PIZZAFARIDABAD",
+      "amount": 470.4,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "IGST",
+      "description": "IGST-VPS2603870237446-RATE 18.0 -06 (Ref# MT260380076000010002330)",
+      "amount": 4.43,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "CT FLIGHT VIA SMARTBU",
+      "description": "EMI CT FLIGHT VIA SMARTBUBANGALORE",
+      "amount": 18411.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-07",
+      "merchant": "IGST",
+      "description": "IGST-VPS2603973075181-RATE 18.0 -06 (Ref# MT260390076000010002317)",
+      "amount": 0.98,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "IGST",
+      "description": "IGST-VPS2604073599845-RATE 18.0 -06 (Ref# MT260400076000010002052)",
+      "amount": 0.98,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "PAY*VODAFONEIDEA LIMI",
+      "description": "PAY*VODAFONEIDEA LIMIGURGAON",
+      "amount": 886.18,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "PTM*RELIANCE RETAIL L",
+      "description": "PTM*RELIANCE RETAIL LNOIDA",
+      "amount": 1060.82,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "MYNTRA VIA SMARTBUY",
+      "description": "MYNTRA VIA SMARTBUYGURGAON",
+      "amount": -242.41,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "PAY*MYNTRA VIA SMARTB",
+      "description": "PAY*MYNTRA VIA SMARTBGURGAON",
+      "amount": 1403.41,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "GYFTR SMARTBUY TWO",
+      "description": "GYFTR SMARTBUY TWONEW DELHI",
+      "amount": 1000.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-12",
+      "merchant": "INNOVATIVE RETAIL CON",
+      "description": "INNOVATIVE RETAIL CONBENGALURU",
+      "amount": 539.5,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-12",
+      "merchant": "WWWBIGBASKETCOM",
+      "description": "WWWBIGBASKETCOMGURGAON",
+      "amount": 275.65,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-12",
+      "merchant": "PAY*WWW HOPSCOTCH IN",
+      "description": "EMI PAY*WWW HOPSCOTCH INGURGAON",
+      "amount": 3448.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-12",
+      "merchant": "PAY*WWW HOPSCOTCH IN",
+      "description": "PAY*WWW HOPSCOTCH INGURGAON",
+      "amount": -1227.97,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-12",
+      "merchant": "PAY*WWW HOPSCOTCH IN",
+      "description": "PAY*WWW HOPSCOTCH INGURGAON",
+      "amount": -1657.12,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-12",
+      "merchant": "PAY*WWW HOPSCOTCH IN",
+      "description": "PAY*WWW HOPSCOTCH INGURGAON",
+      "amount": -920.73,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-13",
+      "merchant": "IGST",
+      "description": "IGST-VPS2604581631815-RATE 18.0 -06 (Ref# MT260450076000010016119)",
+      "amount": 4.46,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "IGST",
+      "description": "IGST-VPS2604683780481-RATE 18.0 -06 (Ref# MT260460076000010003766)",
+      "amount": 14.11,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "IGST",
+      "description": "IGST-VPS2604785104885-RATE 18.0 -06 (Ref# MT260470076000010002109)",
+      "amount": 0.98,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "IGST",
+      "description": "IGST-VPS2604785104890-RATE 18.0 -06 (Ref# MT260470076000010002110)",
+      "amount": 0.98,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-16",
+      "merchant": "NETFLIX",
+      "description": "NETFLIXMUMBAI",
+      "amount": 499.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "IGST",
+      "description": "IGST-VPS2604999338974-RATE 18.0 -06 (Ref# MT260490076000010016578)",
+      "amount": 2.23,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "CT HOTEL VIA SMARTBUY",
+      "description": "EMI CT HOTEL VIA SMARTBUYBANGALORE",
+      "amount": 88476.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "CT HOTEL VIA SMARTBUY",
+      "description": "EMI CT HOTEL VIA SMARTBUYBANGALORE",
+      "amount": 54025.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "CT HOTEL VIA SMARTBUY",
+      "description": "EMI CT HOTEL VIA SMARTBUYBANGALORE",
+      "amount": 113751.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "MMT HOTEL VIA SMARTBU",
+      "description": "EMI MMT HOTEL VIA SMARTBUBANGALORE",
+      "amount": 119541.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-17",
+      "merchant": "Kay Pee International",
+      "description": "Kay Pee InternationalGURUGRAM",
+      "amount": 300.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-18",
+      "merchant": "Myntra Designs Pvt Ltd",
+      "description": "EMI Myntra Designs Pvt LtdBANGALORE",
+      "amount": 3857.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-18",
+      "merchant": "MYNTRA VIA SMARTBUY",
+      "description": "EMI MYNTRA VIA SMARTBUYGURGAON",
+      "amount": 5008.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-19",
+      "merchant": "IGST",
+      "description": "IGST-VPS2605103085432-RATE 18.0 -06 (Ref# MT260510076000010001819)",
+      "amount": 4.44,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-19",
+      "merchant": "FA GIFTS PRIVATE LIMIT",
+      "description": "FA GIFTS PRIVATE LIMITGURGAON",
+      "amount": 1127.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-19",
+      "merchant": "Myntra Designs Pvt Ltd",
+      "description": "Myntra Designs Pvt LtdBANGALORE",
+      "amount": -3834.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-20",
+      "merchant": "PAY*WWW HOPSCOTCH IN",
+      "description": "PAY*WWW HOPSCOTCH INGURGAON",
+      "amount": -2452.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "OFFUS EMI",
+      "description": "OFFUS EMI,PRIN NB:02,00000135614764 (Ref# 09999999980222007318752)",
+      "amount": 7876.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "OFFUS EMI",
+      "description": "OFFUS EMI,INT NBR:02,00000135614764 (Ref# 09999999980222007318760)",
+      "amount": 991.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-25",
+      "merchant": "CURSOR, AI POWERED IDE",
+      "description": "CURSOR, AI POWERED IDENEW YORK",
+      "amount": 2171.08,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": 23.6,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-22",
+      "merchant": "CONSOLIDATED FCY MARKUP FEE",
+      "description": "CONSOLIDATED FCY MARKUP FEE (Ref# MT260510076000010001819)",
+      "amount": 532.68,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-21",
+      "merchant": "MTA*NYCT PAYGO",
+      "description": "MTA*NYCT PAYGONEW YORK",
+      "amount": 275.28,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 3.0,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-01-27",
+      "merchant": "MTA*PATH SMARTCARD/SRT",
+      "description": "EMI MTA*PATH SMARTCARD/SRTNEW YORK",
+      "amount": 11094.18,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 120.75,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-01-28",
+      "merchant": "TST* THE KATI ROLL COM",
+      "description": "TST* THE KATI ROLL COMNEW YORK",
+      "amount": 894.88,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 9.74,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-02",
+      "merchant": "MORTON WILLIAMS - NA",
+      "description": "EMI MORTON WILLIAMS - NAJERSEY CITY",
+      "amount": 2871.1,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 31.45,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-05",
+      "merchant": "SQ *AMBO",
+      "description": "SQ *AMBONew York",
+      "amount": 1231.22,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 13.6,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "MTA*NYCT PAYGO",
+      "description": "MTA*NYCT PAYGONEW YORK",
+      "amount": 271.09,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 3.0,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-07",
+      "merchant": "MTA*NYCT PAYGO",
+      "description": "MTA*NYCT PAYGONEW YORK",
+      "amount": 272.27,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 3.0,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-13",
+      "merchant": "TST* THE KATI ROLL COM",
+      "description": "TST* THE KATI ROLL COMNEW YORK",
+      "amount": 1237.38,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 13.62,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-13",
+      "merchant": "MORTON WILLIAMS - NA",
+      "description": "EMI MORTON WILLIAMS - NAJERSEY CITY",
+      "amount": 3920.23,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 43.22,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "MTA*NYCT PAYGO",
+      "description": "MTA*NYCT PAYGONEW YORK",
+      "amount": 272.11,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 3.0,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "MTA*NYCT PAYGO",
+      "description": "MTA*NYCT PAYGONEW YORK",
+      "amount": 272.11,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 3.0,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-16",
+      "merchant": "ROOSTERS COFFEEHOUSE",
+      "description": "ROOSTERS COFFEEHOUSELEDGEWOOD",
+      "amount": 618.6,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 6.82,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-02-18",
+      "merchant": "SQ *AMBO",
+      "description": "SQ *AMBONew York",
+      "amount": 1233.1,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": 13.6,
+      "foreign_currency": "USD"
+    }
+  ]
+}

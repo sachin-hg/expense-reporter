@@ -1,0 +1,350 @@
+{
+  "statement_period": {
+    "from": "2026-01-19",
+    "to": "2026-02-18"
+  },
+  "transactions": [
+    {
+      "date": "2026-01-22",
+      "merchant": "OM SWEETS PVT LTD",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 290.88,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-23",
+      "merchant": "BST Petromart",
+      "description": "BST Petromart Gurgaon IN",
+      "amount": 1032.04,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-24",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -10.32,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-24",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -1.86,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-25",
+      "merchant": "FSS4FIRSTCRY",
+      "description": "FSS4FIRSTCRY PUNE IN",
+      "amount": 829.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-25",
+      "merchant": "UNIQLO INDIA PRIVATE",
+      "description": "UNIQLO INDIA PRIVATE NOIDA IN",
+      "amount": 4990.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-25",
+      "merchant": "FIRSTCRY",
+      "description": "FIRSTCRY PUNE IN",
+      "amount": 2029.95,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-26",
+      "merchant": "FSS4FIRSTCRY",
+      "description": "FSS4FIRSTCRY PUNE IN",
+      "amount": 3074.6,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-25",
+      "merchant": "THIRD WAVE COFFEE",
+      "description": "THIRD WAVE COFFEE NOIDA IN",
+      "amount": 1567.93,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-26",
+      "merchant": "I SHOP",
+      "description": "I SHOP HTTPS://ISHOP IN",
+      "amount": 2000.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-28",
+      "merchant": "SHREE TIRUPATI JEE FI",
+      "description": "SHREE TIRUPATI JEE FI GURGAON IN",
+      "amount": 3085.99,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-29",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -30.86,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-29",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -5.56,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-31",
+      "merchant": "EVERYDAY FITNESS",
+      "description": "EVERYDAY FITNESS FARIDABAD IN",
+      "amount": 13000.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-01-31",
+      "merchant": "FIRSTCRY",
+      "description": "FIRSTCRY PUNE IN",
+      "amount": -225.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-01",
+      "merchant": "OM SWEETS PVT LTD",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 239.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-01",
+      "merchant": "MUHAVRA ENTERPRISES P",
+      "description": "MUHAVRA ENTERPRISES P GURUGRAM IN",
+      "amount": 410.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-01",
+      "merchant": "MUHAVRA ENTERPRISES P",
+      "description": "MUHAVRA ENTERPRISES P GURUGRAM IN",
+      "amount": 945.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-03",
+      "merchant": "M S Jiana Adventures Llp",
+      "description": "M S Jiana Adventures Llp FARIDABAD IN",
+      "amount": 5000.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-04",
+      "merchant": "I SHOP",
+      "description": "I SHOP HTTPS://ISHOP IN",
+      "amount": 37470.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-04",
+      "merchant": "NARAIN SERVICE STATION",
+      "description": "NARAIN SERVICE STATION FARIDABAD IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-05",
+      "merchant": "Fuel Surcharge-OnUs",
+      "description": "Fuel Surcharge-OnUs",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-05",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "INFINITY PAYMENT RECEIVED",
+      "description": "INFINITY PAYMENT RECEIVED, THANK YOU",
+      "amount": -37579.46,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-06",
+      "merchant": "I SHOP",
+      "description": "I SHOP HTTPS://ISHOP IN",
+      "amount": 67324.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-07",
+      "merchant": "OM SWEETS PVT LTD",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 197.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "Pacific Sector 20B Fa",
+      "description": "Pacific Sector 20B Fa FARIDABAD IN",
+      "amount": 338.1,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "MARKET 99",
+      "description": "MARKET 99 FARIDABAD IN",
+      "amount": 549.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-08",
+      "merchant": "HENNES N MAURITZ",
+      "description": "HENNES N MAURITZ FARIDABAD IN",
+      "amount": 3398.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-09",
+      "merchant": "EVERYDAY FITNESS",
+      "description": "EVERYDAY FITNESS FARIDABAD IN",
+      "amount": 18000.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-10",
+      "merchant": "SANSAD SHAHEED B S AD",
+      "description": "SANSAD SHAHEED B S AD FARIDABAD IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-11",
+      "merchant": "FSS4FIRSTCRY",
+      "description": "FSS4FIRSTCRY PUNE IN",
+      "amount": 701.6,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-14",
+      "merchant": "FSS4FIRSTCRY",
+      "description": "FSS4FIRSTCRY PUNE IN",
+      "amount": -647.6,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-15",
+      "merchant": "HINDUSTAN PETROLEUM C",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-16",
+      "merchant": "Fuel Surcharge-Off-Us",
+      "description": "Fuel Surcharge-Off-Us",
+      "amount": -20.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-02-16",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.68,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

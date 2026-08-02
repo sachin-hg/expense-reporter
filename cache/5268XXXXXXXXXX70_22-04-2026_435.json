@@ -1,0 +1,53 @@
+{
+  "statement_period": {
+    "from": "2026-03-23",
+    "to": "2026-04-22"
+  },
+  "transactions": [
+    {
+      "date": "2026-03-22",
+      "merchant": "PYU*Swiggy Food",
+      "description": "PYU*Swiggy FoodBangalore",
+      "amount": 141.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-25",
+      "merchant": "PYU*Swiggy Food",
+      "description": "PYU*Swiggy FoodBangalore",
+      "amount": 500.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-03-25",
+      "merchant": "PYU*Swiggy Food",
+      "description": "PYU*Swiggy FoodBangalore",
+      "amount": 643.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-12",
+      "merchant": "WWW SWIGGY IN",
+      "description": "WWW SWIGGY INBANGALORE",
+      "amount": 742.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-04-21",
+      "merchant": "PYU*Swiggy Food",
+      "description": "PYU*Swiggy FoodBangalore",
+      "amount": 354.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}
