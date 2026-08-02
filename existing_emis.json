@@ -31,6 +31,36 @@
     "amount_override": 79744
   },
   {
+    "type": "override",
+    "identifier": "policybazaar",
+    "date": "2026-02-23",
+    "amount": 6672,
+    "category": "trip",
+    "label": "PolicyBazaar (Travel Insurance)"
+  },
+  {
+    "type": "override",
+    "identifier": "jiana adventures",
+    "date": "2026-02-03",
+    "amount": 5000,
+    "category": "one_time",
+    "label": "Baby Birthday Party"
+  },
+  {
+    "type": "override",
+    "identifier": "jiana adventures",
+    "date": "2026-02-21",
+    "amount": 20849,
+    "category": "one_time",
+    "label": "Baby Birthday Party"
+  },
+  {
+    "type": "override",
+    "identifier": "anil kumar roriya",
+    "category": "trip",
+    "label": "Visa Fee"
+  },
+  {
     "type": "suppress",
     "identifier": "reliance retail",
     "date": "2026-05-17",

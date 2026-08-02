@@ -224,6 +224,10 @@ class StatementProcessor:
         if "bill payment" in combined and self._CARD_PREFIXES.search(combined):
             return True
 
+        # Generic CC payment (e.g. "BPPY CC PAYMENT BD016101...")
+        if re.search(r'\bcc payment\b', combined):
+            return True
+
         return False
 
     def _is_icici_ignored(self, t: dict) -> bool:

@@ -161,7 +161,11 @@ def main():
 
     logger.info("Classifying expenses with Claude...")
     classifier = ExpenseClassifier()
-    classified = classifier.classify(all_transactions)
+    try:
+        classified = classifier.classify(all_transactions)
+    except Exception as e:
+        logger.error(f"Classification failed — aborting, no report written: {e}")
+        sys.exit(1)
 
     # 4. Generate report(s) ──────────────────────────────────────────────
     from src.report_generator import ReportGenerator

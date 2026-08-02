@@ -66,7 +66,7 @@ These exact merchants must always map to the given category regardless of other 
 - "BigBasket" / "BIG BASKET" (any case) → GROCERY, merchant_short = "BigBasket"
 - "M S D P Saini" / "MSDP SAINI" (any case/spacing) → GROCERY, merchant_short = "M S D P Saini"
 - "PharmEasy" / "PHARMEASY" (any case) → MEDICINE, merchant_short = "PharmEasy"
-- "CBDT" / "CBDTGURGAON" (any case) → UTILITIES, merchant_short = "Income Tax (CBDT)"
+- "CBDT" / "CBDTGURGAON" (any case) → TAX, merchant_short = "Income Tax (CBDT)"
 - "OEBB" → TRIP, merchant_short = "OEBB"
 - "VakaTrip" / "VAKATRIP" (any case) → TRIP, merchant_short = "VakaTrip"
 - "Visa Agent" (any case) → TRIP, merchant_short = "Visa Agent Fee"
@@ -79,6 +79,7 @@ These exact merchants must always map to the given category regardless of other 
 - "NPS Trust" / "NPS" (any case) → INVESTMENTS, merchant_short = "NPS Trust"
 - "Tin 2 O" (any case) → TAX, merchant_short = "Tin 2 O"
 - "Bureau of Energy" (any case) → PAPA, merchant_short = "Bureau of Energy"
+- "Jiana Adventures" (any case) → OUTSIDE_FOOD, merchant_short = "Jiana Adventures"
 
 Keyword rules — apply when the merchant name CONTAINS these words (case-insensitive substring):
 - contains "hotel" or "resort" → TRIP (use the hotel/resort name as merchant_short)
@@ -440,7 +441,9 @@ class ExpenseClassifier:
                         normal[idx].category = item.get("category", "others")
                         normal[idx].merchant_short = item.get("merchant_short", "")
             except Exception as e:
-                logger.error(f"Classification batch failed (ids {start}–{start+len(chunk)}): {e}")
+                raise RuntimeError(
+                    f"Classification batch failed (ids {start}–{start + len(chunk) - 1}): {e}"
+                ) from e
 
         for t in transactions:
             if not t.category:
