@@ -43,5 +43,21 @@
     "amount": 99711,
     "category": "one_time",
     "label": "Laptop"
+  },
+  {
+    "type": "override",
+    "identifier": "myntra",
+    "date": "2026-07-13",
+    "amount": 72658,
+    "category": "investments",
+    "label": "Gold Coin"
+  },
+  {
+    "type": "override",
+    "identifier": "myntra",
+    "date": "2026-07-13",
+    "amount": 71589,
+    "category": "investments",
+    "label": "Gold Coin"
   }
 ]

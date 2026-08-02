@@ -1,0 +1,638 @@
+{
+  "statement_period": {
+    "from": "2026-07-01",
+    "to": "2026-07-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-07-30",
+      "merchant": "Manpasand Collection",
+      "description": "Paid to Manpasand Collection UPI Ref No: 611284133638 #Shopping",
+      "amount": 650,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "Yash Vohra",
+      "description": "Money sent to Yash Vohra UPI Ref No: 212021162937 #Money Transfer",
+      "amount": 950,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "Manpasand Collection",
+      "description": "Paid to Manpasand Collection UPI Ref No: 611281695368 #Shopping",
+      "amount": 800,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "Gulati Book Zone",
+      "description": "Paid to Gulati Book Zone UPI Ref No: 621120363483 #Shopping",
+      "amount": 225,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "Subway Ild Trade Center",
+      "description": "Paid to Subway Ild Trade Center UPI Ref No: 211999837566 #Food",
+      "amount": 230,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 211967520331 #Groceries",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-29",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 621078865554 #Groceries",
+      "amount": 135,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-29",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 311327007629 #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-28",
+      "merchant": "Bhatia Medicos",
+      "description": "Paid to Bhatia Medicos UPI Ref No: 311306422761 #Medical",
+      "amount": 66,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-28",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 311263314107 #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-26",
+      "merchant": "Connaught Plaza Rest",
+      "description": "Paid to Connaught Plaza Rest UPI Ref No: 620781995983 #Food",
+      "amount": 86.1,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-26",
+      "merchant": "Vijay Thakur",
+      "description": "Paid to Vijay Thakur UPI Ref No: 611012768803 #Shopping",
+      "amount": 150,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-25",
+      "merchant": "MG Noida Authority 03",
+      "description": "Paid to MG Noida Authority 03 UPI Ref No: 620675840585 #Taxi",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-25",
+      "merchant": "IDBI Bank FASTag",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432 UPI Ref No: 620651056636 #Travel",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-25",
+      "merchant": "Yogesh Kumar",
+      "description": "Money sent to Yogesh Kumar UPI Ref No: 610959014430 #Money Transfer",
+      "amount": 3000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-23",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar UPI Ref No: 310976262008 #Groceries",
+      "amount": 271,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-23",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 211442085649 #Groceries",
+      "amount": 105,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-22",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 310896470485 #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-22",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 310881543467 #Groceries",
+      "amount": 70,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-21",
+      "merchant": "AMARJEET",
+      "description": "Paid to AMARJEET UPI Ref No: 310866154321 #Food",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-21",
+      "merchant": "AMARJEET",
+      "description": "Paid to AMARJEET UPI Ref No: 310865993885 #Food",
+      "amount": 90,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-21",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 310836973139 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-21",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 211293696942 #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-21",
+      "merchant": "Md Israr",
+      "description": "Paid to Md Israr UPI Ref No: 610718473465 #Fuel",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-20",
+      "merchant": "MCDONALDS",
+      "description": "Paid to MCDONALDS UPI Ref No: 620131138504 #Food",
+      "amount": 60.9,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-20",
+      "merchant": "Poonam Singh",
+      "description": "Paid to Poonam Singh UPI Ref No: 310784347446 Note: Pay to BharatPe Merchant #Miscellaneous",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-20",
+      "merchant": "Shobha Devi",
+      "description": "Paid to Shobha Devi UPI Ref No: 211242172010 #Services",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-19",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar UPI Ref No: 310728695286 #Groceries",
+      "amount": 115,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-19",
+      "merchant": "Shri Ram Pharmacy",
+      "description": "Paid to Shri Ram Pharmacy UPI Ref No: 620075271904 #Medical",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-19",
+      "merchant": "Goyal hospital pharmacy",
+      "description": "Paid to Goyal hospital pharmacy UPI Ref No: 620055218549 #Services",
+      "amount": 510,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-18",
+      "merchant": "Pawan Devi",
+      "description": "Paid to Pawan Devi UPI Ref No: 211117323676 #Groceries",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-18",
+      "merchant": "Sethis delicacy",
+      "description": "Paid to Sethis delicacy UPI Ref No: 310642441030 #Groceries",
+      "amount": 390,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-17",
+      "merchant": "Tin 2 O",
+      "description": "Paid to Tin 2 O UPI Ref No: 619872549037 Note: Pay #Miscellaneous",
+      "amount": 49600,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-17",
+      "merchant": "Sumit Pal",
+      "description": "Paid to Sumit Pal UPI Ref No: 619862224494 #Groceries",
+      "amount": 83.14,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-16",
+      "merchant": "Madhu Sharma",
+      "description": "Paid to Madhu Sharma UPI Ref No: 310538071206 #Groceries",
+      "amount": 130,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-16",
+      "merchant": "Madhu Sharma",
+      "description": "Paid to Madhu Sharma UPI Ref No: 310536464589 #Groceries",
+      "amount": 500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-16",
+      "merchant": "Prems Shop",
+      "description": "Paid to Prems Shop UPI Ref No: 610459249889 #Miscellaneous",
+      "amount": 160,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-16",
+      "merchant": "Fresh N Up",
+      "description": "Paid to Fresh N Up UPI Ref No: 210946647258 #Food",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-16",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 310495582677 #Groceries",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-15",
+      "merchant": "Connaught Plaza Rest",
+      "description": "Paid to Connaught Plaza Rest UPI Ref No: 210861229333 #Food",
+      "amount": 280.36,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-15",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 310445771134 #Groceries",
+      "amount": 25,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-15",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 610362041850 #Groceries",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-14",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 310391311263 #Groceries",
+      "amount": 125,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-14",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 610301876628 #Groceries",
+      "amount": 105,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "TEERATH",
+      "description": "Paid to TEERATH UPI Ref No: 310222772656 #Groceries",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "SARIFUDDIN",
+      "description": "Paid to SARIFUDDIN UPI Ref No: 310222761885 #Groceries",
+      "amount": 40,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "TEERATH",
+      "description": "Paid to TEERATH UPI Ref No: 310222680685 #Groceries",
+      "amount": 20,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "Moolchand Parantha",
+      "description": "Paid to Moolchand Parantha UPI Ref No: 610167347151 #Food",
+      "amount": 90,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "Moolchand Parantha",
+      "description": "Paid to Moolchand Parantha UPI Ref No: 310222431348 #Food",
+      "amount": 180,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar UPI Ref No: 619249686231 #Groceries",
+      "amount": 70,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "Nps Trust",
+      "description": "Paid to Nps Trust UPI Ref No: 619248927555 Note: 2110720261249900312499003SACHIN AGRAWAL #Miscellaneous",
+      "amount": 50000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "Munder S/o Ram Chand",
+      "description": "Money sent to Munder S/o Ram Chand UPI Ref No: 310164699065 #Money Transfer",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "Airtel Mobile",
+      "description": "Bill Payment of Airtel Mobile 9289490333 UPI Ref No: 210497099489 #Bill Payments",
+      "amount": 1414.82,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "Vi",
+      "description": "Bill Payment of Vi 9811785389 UPI Ref No: 210496971133 #Bill Payments",
+      "amount": 886.18,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-10",
+      "merchant": "Santosh Gupta",
+      "description": "Received from Santosh Gupta UPI Ref No: 619121399138 #Money Received",
+      "amount": -1,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-10",
+      "merchant": "Baba Ji Restaurant",
+      "description": "Paid to Baba Ji Restaurant UPI Ref No: 210465320419 #Food",
+      "amount": 150,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-10",
+      "merchant": "Om Sweets Pvt Ltd",
+      "description": "Paid to Om Sweets Pvt Ltd UPI Ref No: 610055938210 #Food",
+      "amount": 378,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-09",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 610014416048 #Groceries",
+      "amount": 95,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-09",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 310041236316 #Groceries",
+      "amount": 70,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-08",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 618949549541 #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-08",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 309990995409 #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-07",
+      "merchant": "Subway Ild Trade Center",
+      "description": "Paid to Subway Ild Trade Center UPI Ref No: 210227947922 #Food",
+      "amount": 230,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-07",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI Ref No: 309935494707 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-07",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 309927296817 #Groceries",
+      "amount": 130,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-07",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 609886059242 #Groceries",
+      "amount": 105,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-06",
+      "merchant": "IDBI Bank FASTag",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432 UPI Ref No: 210148141909 #Travel",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-05",
+      "merchant": "Blue Tokai Coffee Roasters",
+      "description": "Paid to Blue Tokai Coffee Roasters Faridabad Sector 15 UPI Ref No: 210060051908 #Food",
+      "amount": 950,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-04",
+      "merchant": "Santosh Gupta",
+      "description": "Received from Santosh Gupta UPI Ref No: 618572139661 #Money Received",
+      "amount": -1,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-01",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal UPI Ref No: 309570933840 #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-01",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh UPI Ref No: 618241945559 #Groceries",
+      "amount": 180,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

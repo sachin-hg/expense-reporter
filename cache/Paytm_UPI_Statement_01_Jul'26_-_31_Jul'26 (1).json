@@ -1,0 +1,134 @@
+{
+  "statement_period": {
+    "from": "2026-07-01",
+    "to": "2026-07-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-07-25",
+      "merchant": "SWIGGY",
+      "description": "Paid to SWIGGY UPI ID: swiggyinstamart@icici UPI Ref No: 610944989263 #Groceries",
+      "amount": 158,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-22",
+      "merchant": "SWIGGY",
+      "description": "Paid to SWIGGY UPI ID: upiswiggy@icici UPI Ref No: 211367064207 #Food",
+      "amount": 490,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-20",
+      "merchant": "Kiran X",
+      "description": "Money sent to Kiran X UPI ID: jeetpal74091716@ybl UPI Ref No: 310811092168 #Money Transfer",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-19",
+      "merchant": "AMARJEET",
+      "description": "Paid to AMARJEET UPI ID: q468514859@ybl UPI Ref No: 310744442541 #Food",
+      "amount": 30,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-19",
+      "merchant": "Kprs Enterprises",
+      "description": "Paid to Kprs Enterprises UPI ID: bharatpe90718705258@yesbankltd UPI Ref No: 211198939522 Verified Merchant #Groceries",
+      "amount": 200,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-17",
+      "merchant": "Himanshu Singh",
+      "description": "Money sent to Himanshu Singh UPI ID: 7042911825@ptaxis UPI Ref No: 310584761711 #Money Transfer",
+      "amount": 1180,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-15",
+      "merchant": "Roshni Kumari",
+      "description": "Money sent to Roshni Kumari UPI ID: 8586856572@ptsbi UPI Ref No: 310433249798 #Money Transfer",
+      "amount": 104,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "Nps Trust",
+      "description": "Paid to Nps Trust UPI ID: npstrust266893.rzp@rxairtel UPI Ref No: 619226671330 Note: 2110720261249916712499167MONIKA AGGARWAL #Miscellaneous",
+      "amount": 50000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-03",
+      "merchant": "Vijay Thakur",
+      "description": "Paid to Vijay Thakur UPI ID: paytmqr281005050101fo07u2yj48f2@paytm UPI Ref No: 609653331703 #Shopping",
+      "amount": 1680,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-03",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria UPI ID: rjtkhajuria-2@okhdfcbank UPI Ref No: 125671850147 #Money Received",
+      "amount": -28500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-02",
+      "merchant": "Blinkit",
+      "description": "Paid to Blinkit UPI ID: paytm-blinkit@ptybl UPI Ref No: 209811746823 Note: Blinkit Payment #Groceries",
+      "amount": 1169,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-02",
+      "merchant": "Blinkit",
+      "description": "Paid to Blinkit UPI ID: blinkit.rzp@hdfcbank UPI Ref No: 309613627970 Note: Pay via Razorpay #Groceries",
+      "amount": 1280,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-01",
+      "merchant": "Chandan Kumar",
+      "description": "Paid to Chandan Kumar UPI ID: paytmqr6yezk8@ptys UPI Ref No: 609555576091 #Food",
+      "amount": 20,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-01",
+      "merchant": "Vansadia Advaitsinh Kiritsinh",
+      "description": "Received from Vansadia Advaitsinh Kiritsinh UPI ID: advait.126@okhdfcbank UPI Ref No: 125594128297 #Money Received",
+      "amount": -20000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

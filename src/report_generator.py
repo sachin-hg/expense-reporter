@@ -26,6 +26,8 @@ CATEGORY_LABELS: Dict[str, str] = {
     "rohan": "Rohan",
     "papa": "Papa",
     "one_time": "One-Time Expense",
+    "investments": "Investments",
+    "tax": "Tax",
     "others": "Others",
 }
 

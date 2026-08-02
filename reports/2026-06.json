@@ -1,10 +1,13 @@
 {
-  "grocery": 3489.89,
-  "outside_food": 28394.99,
-  "others": 47874.27,
-  "shopping": 2261.82,
-  "utilities": 28177.0,
-  "travel": 12343.54,
+  "grocery": 2454.67,
+  "outside_food": 31170.99,
+  "travel": 19989.54,
+  "upskill_ai": 11039.76,
+  "shopping": 5331.82,
+  "utilities": 37663.0,
+  "others": 1568.33,
+  "rohan": 1075.02,
   "baby": 750.0,
-  "medicine": 330.0
+  "health": 630.0,
+  "papa": 12500.0
 }

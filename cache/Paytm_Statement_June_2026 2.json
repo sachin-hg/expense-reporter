@@ -1,0 +1,71 @@
+{
+  "statement_period": {
+    "from": "2026-06-01",
+    "to": "2026-06-30"
+  },
+  "transactions": [
+    {
+      "date": "2026-06-29",
+      "merchant": "SWIGGY",
+      "description": "Paid to SWIGGY, UPI ID: upiswiggy@icici, UPI Ref No: 609409392195, #Food, HDFC Bank Rupay Credit Card - 46",
+      "amount": 474,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-28",
+      "merchant": "Fresh N Up",
+      "description": "Paid to Fresh N Up, UPI ID: paytmqr6pw65g@ptys, UPI Ref No: 209527682916, #Food, ICICI Bank - 54",
+      "amount": 417,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-13",
+      "merchant": "Bigbasket",
+      "description": "Paid to Bigbasket, UPI ID: bigbasket.payu@axisbank, UPI Ref No: 307930571927, UPIIntent, #Groceries, HDFC Bank Rupay Credit Card - 46",
+      "amount": 265.25,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-12",
+      "merchant": "Innovative Retail Concepts Private Limited",
+      "description": "Paid to Innovative Retail Concepts Private Limited, UPI ID: cf.innovativeretailconcepts@cashfreensdlpb, UPI Ref No: 607870391687, Note: 5783690548, #Miscellaneous, HDFC Bank Rupay Credit Card - 46",
+      "amount": 217.37,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-03",
+      "merchant": "SAPNA",
+      "description": "Received from SAPNA, UPI ID: 9389524995@ybl, UPI Ref No: 626241680005, #Money Received, ICICI Bank - 54",
+      "amount": -20,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-03",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria, UPI ID: rjtkhajuria-2@okhdfcbank, UPI Ref No: 124130519406, #Money Received, ICICI Bank - 54",
+      "amount": -28500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-06-01",
+      "merchant": "Vansadia Advaitsinh Kiritsinh",
+      "description": "Received from Vansadia Advaitsinh Kiritsinh, UPI ID: advait.126-1@okaxis, UPI Ref No: 615283123018, #Money Received, ICICI Bank - 54",
+      "amount": -20000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

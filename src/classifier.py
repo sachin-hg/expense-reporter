@@ -26,6 +26,8 @@ CATEGORIES = [
     "rohan",
     "papa",
     "one_time",
+    "investments",
+    "tax",
     "others",
 ]
 
@@ -73,6 +75,10 @@ These exact merchants must always map to the given category regardless of other 
 - "Everyday Fitness" (any case) → HEALTH, merchant_short = "Everyday Fitness"
 - "Global Value" and "Cash Back" in the same merchant name → ROHAN, merchant_short = "Global Value Cash Back"
 - "Aseem Rastogi" (any case) → UPSKILL_AI, merchant_short = "Aseem Rastogi"
+- "Rainbow Toys" (any case) → BABY, merchant_short = "Rainbow Toys"
+- "NPS Trust" / "NPS" (any case) → INVESTMENTS, merchant_short = "NPS Trust"
+- "Tin 2 O" (any case) → TAX, merchant_short = "Tin 2 O"
+- "Bureau of Energy" (any case) → PAPA, merchant_short = "Bureau of Energy"
 
 Keyword rules — apply when the merchant name CONTAINS these words (case-insensitive substring):
 - contains "hotel" or "resort" → TRIP (use the hotel/resort name as merchant_short)
@@ -249,7 +255,7 @@ _NON_FUEL_MERCHANT_RE = re.compile(
     r'trent|innovative.?retail|bigbasket|big.?basket|pharmeasy|cbdt|oebb|vakatrip|'
     r'visa.?agent|vfs|yes.?madam|yesmadam|everyday.?fitness|hopscotch|s\.?sons|'
     r'vijay.?thakur|swiggy|zomato|amazon|blinkit|zepto|meesho|firstcry|first.?cry|'
-    r'cloudnine|uber|national.?highway|kuleep.?pal|kuldeep.?pal|caf[ée]',
+    r'cloudnine|uber|national.?highway|kuleep.?pal|kuldeep.?pal|caf[ée]|rainbow.?toys',
     re.IGNORECASE
 )
 

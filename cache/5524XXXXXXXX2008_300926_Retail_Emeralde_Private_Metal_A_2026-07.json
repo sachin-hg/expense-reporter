@@ -1,0 +1,287 @@
+{
+  "statement_period": {
+    "from": "2026-06-19",
+    "to": "2026-07-18"
+  },
+  "transactions": [
+    {
+      "date": "2026-06-19",
+      "merchant": "Muhavra Enterprises Pr",
+      "description": "Muhavra Enterprises Pr FARIDABAD IN",
+      "amount": 956.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-01",
+      "merchant": "HINDUSTAN PETROLEUM C",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-02",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-02",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-04",
+      "merchant": "GREATFRONTEND",
+      "description": "GREATFRONTEND SINGAPORE SG",
+      "amount": 1700.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-04",
+      "merchant": "DCC Fee",
+      "description": "DCC Fee",
+      "amount": 34.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-04",
+      "merchant": "IGST-CI@18%",
+      "description": "IGST-CI@18%",
+      "amount": 6.12,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-04",
+      "merchant": "SHIVA CARES",
+      "description": "SHIVA CARES Faridabad IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-05",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-05",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-07",
+      "merchant": "INFINITY PAYMENT RECEIVED",
+      "description": "INFINITY PAYMENT RECEIVED, THANK YOU",
+      "amount": -19864.26,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-07",
+      "merchant": "SAPRU CAR CARE CENTRE",
+      "description": "SAPRU CAR CARE CENTRE Gurgaon IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-08",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-08",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-08",
+      "merchant": "SAPRU CAR CARE CENTRE",
+      "description": "SAPRU CAR CARE CENTRE Gurgaon IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-09",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-09",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-09",
+      "merchant": "FIRSTCRYBABY",
+      "description": "FIRSTCRYBABY PUNE IN",
+      "amount": 2375.2,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "HINDUSTAN PETROLEUM C",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-11",
+      "merchant": "OM SWEETS PVT LTD",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 659.99,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "BIKANERVALA",
+      "description": "BIKANERVALA GURGAON IN",
+      "amount": 687.76,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "BIKANERVALA",
+      "description": "BIKANERVALA GURGAON IN",
+      "amount": 399.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-12",
+      "merchant": "BIKANERVALA",
+      "description": "BIKANERVALA GURGAON IN",
+      "amount": 708.76,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-14",
+      "merchant": "SAPRU CAR CARE CENTRE",
+      "description": "SAPRU CAR CARE CENTRE Gurgaon IN",
+      "amount": 4132.19,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-15",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -40.87,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-15",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -7.36,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-17",
+      "merchant": "SHIVA CARES",
+      "description": "SHIVA CARES Faridabad IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-18",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-18",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}
