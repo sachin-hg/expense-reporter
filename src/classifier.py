@@ -34,58 +34,7 @@ CATEGORIES = [
 CLASSIFICATION_RULES = """\
 Classify each Indian bank/UPI transaction into exactly one category.
 
-━━━ TIER 1 — NAMED MERCHANT OVERRIDES (apply first, always win) ━━━
-These exact merchants must always map to the given category regardless of other rules:
-- "Tim Tim Fresh" → OUTSIDE_FOOD, merchant_short = "Tim Tim Fresh"
-- "Multitech Motors" (any spelling/case) → TRAVEL, merchant_short = "Multitech Motors"
-- "S Sons" (any spelling/case) → GROCERY, merchant_short = "S Sons"
-- "Vijay Thakur" (any spelling/case) → HEALTH, merchant_short = "Salon"
-- "Netflix" → UTILITIES, merchant_short = "Netflix"
-- "LinkedIn" → UPSKILL_AI, merchant_short = "LinkedIn"
-- "Anthropic" → UPSKILL_AI, merchant_short = "Anthropic"
-- "OpenAI" or "ChatGPT" → UPSKILL_AI, merchant_short = "ChatGPT / OpenAI"
-- "Claude" (as a subscription/service, not a person's name) → UPSKILL_AI, merchant_short = "Claude"
-- "GreatFrontend" → UPSKILL_AI, merchant_short = "GreatFrontend"
-- "Cursor" (AI code editor, as a subscription) → UPSKILL_AI, merchant_short = "Cursor"
-- "Patel Bhavesh" (any case/spelling) → PAPA, merchant_short = "Patel Bhavesh"
-- "Parmod Bhatia" (any case/spelling) → HEALTH, merchant_short = "Parmod Bhatia (Medicine)"
-- "PolicyBazaar" (any case) → UTILITIES, merchant_short = "PolicyBazaar (Insurance)"
-- "Gyftr" (any case) → SHOPPING, merchant_short = "Gyftr"
-- "iShop" / "ishop" (any case) → SHOPPING if amount < 5000, TRIP if amount >= 5000
-- "SmartBuy" (any case) → SHOPPING if amount < 5000, TRIP if amount >= 5000
-- "Kuleep Pal" / "Kuldeep Pal" / "Kulip Pal" (any similar spelling) → TRAVEL, merchant_short = "Parking"
-- "Fuel Surcharge" in merchant/description (any case) → TRAVEL, merchant_short = "Fuel Surcharge"
-- "Petro Surcharge" / "Petrol Surcharge" (any case) → TRAVEL, merchant_short = "Fuel Surcharge"
-- "Uber" (any case) → TRAVEL, merchant_short = "Uber"
-- "National Highways" (any case) → TRAVEL, merchant_short = "National Highways"
-- "Hopscotch" (any case) → BABY, merchant_short = "Hopscotch"
-- "Myntra" (any case) → SHOPPING, merchant_short = "Myntra"
-- "Flipkart" (any case) → SHOPPING, merchant_short = "Flipkart"
-- "Trent Limited" / "TRENT" (any case) → SHOPPING, merchant_short = "Trent"
-- "Innovative Retail" (any case) → GROCERY, merchant_short = "Innovative Retail"
-- "BigBasket" / "BIG BASKET" (any case) → GROCERY, merchant_short = "BigBasket"
-- "M S D P Saini" / "MSDP SAINI" (any case/spacing) → GROCERY, merchant_short = "M S D P Saini"
-- "PharmEasy" / "PHARMEASY" (any case) → MEDICINE, merchant_short = "PharmEasy"
-- "CBDT" / "CBDTGURGAON" (any case) → TAX, merchant_short = "Income Tax (CBDT)"
-- "OEBB" → TRIP, merchant_short = "OEBB"
-- "VakaTrip" / "VAKATRIP" (any case) → TRIP, merchant_short = "VakaTrip"
-- "Visa Agent" (any case) → TRIP, merchant_short = "Visa Agent Fee"
-- "VFS" (any case) → TRIP, merchant_short = "VFS Visa Fee"
-- "Yes Madam" / "YESMADAM" (any case) → HEALTH, merchant_short = "Salon"
-- "Everyday Fitness" (any case) → HEALTH, merchant_short = "Everyday Fitness"
-- "Global Value" and "Cash Back" in the same merchant name → ROHAN, merchant_short = "Global Value Cash Back"
-- "Aseem Rastogi" (any case) → UPSKILL_AI, merchant_short = "Aseem Rastogi"
-- "Rainbow Toys" (any case) → BABY, merchant_short = "Rainbow Toys"
-- "NPS Trust" / "NPS" (any case) → INVESTMENTS, merchant_short = "NPS Trust"
-- "Tin 2 O" (any case) → TAX, merchant_short = "Tin 2 O"
-- "Bureau of Energy" (any case) → PAPA, merchant_short = "Bureau of Energy"
-- "Jiana Adventures" (any case) → OUTSIDE_FOOD, merchant_short = "Jiana Adventures"
-
-Keyword rules — apply when the merchant name CONTAINS these words (case-insensitive substring):
-- contains "hotel" or "resort" → TRIP (use the hotel/resort name as merchant_short)
-- contains "flight" → TRIP, merchant_short = short airline or booking name
-
-━━━ TIER 2 — GENERAL CATEGORY RULES ━━━
+━━━ GENERAL CATEGORY RULES ━━━
 
 TRAVEL: Fuel stations (HP, Indian Oil, BPCL, IOCL, Shell, Bharat Petroleum, Hindustan Petroleum,
   any petrol pump / service station / filling station), FastTag, toll plazas, parking payments.
@@ -145,8 +94,7 @@ Negative amounts are refunds — classify into the same category the original pu
 
 ━━━ MERCHANT SHORT NAMES ━━━
 Return a clear, brief merchant_short a human would recognise.
-Examples: "Swiggy" not "SWIGGY INTERNET PVT LTD", "Zepto" not "KIRANAKART TECHNOLOGIES".
-For Tier 1 overrides, use the merchant_short specified above exactly."""
+Examples: "Swiggy" not "SWIGGY INTERNET PVT LTD", "Zepto" not "KIRANAKART TECHNOLOGIES"."""
 
 CLASSIFICATION_SYSTEM = (
     "You are an expert Indian expense classifier. Classify transactions precisely following the rules. "
@@ -262,6 +210,99 @@ _NON_FUEL_MERCHANT_RE = re.compile(
 
 # Pattern that identifies an EMI-conversion credit (not an EMI-eligible badge)
 _EMI_CONVERSION_RE = re.compile(r'aggregator\s*emi|offus\s*credit', re.IGNORECASE)
+
+# ---------------------------------------------------------------------------
+# Tier 1 — named-merchant rules applied in code before Claude is called.
+# Each entry: (compiled_pattern, category, merchant_short)
+#   category      — str, or callable(Transaction) -> str for amount-dependent rules
+#   merchant_short — str, or None to keep the original merchant name
+# Rules are matched against "merchant + description" (lower-cased).
+# First match wins; existing_emis.json overrides and fuel/Rohan/EMI pre-classification
+# all run first and take priority (Tier 1 only touches still-unclassified transactions).
+# ---------------------------------------------------------------------------
+_T = None  # sentinel — keep original merchant name as merchant_short
+
+def _ishop_smartbuy_cat(t: "Transaction") -> str:
+    return "trip" if abs(t.amount) >= 5000 else "shopping"
+
+_TIER1_RULES: list = [
+    # outside_food
+    (re.compile(r'tim\s*tim', re.I),                                    "outside_food",  "Tim Tim Fresh"),
+    (re.compile(r'jiana.?adventures', re.I),                            "outside_food",  "Jiana Adventures"),
+    # trip — keyword rules: put BEFORE SmartBuy/iShop so hotel/flight buys via those
+    #        aggregators are still routed to trip, not shopping
+    (re.compile(r'\b(hotel|resort)\b', re.I),                           "trip",          _T),
+    (re.compile(r'\bflight\b', re.I),                                   "trip",          _T),
+    # trip — named merchants
+    (re.compile(r'\boebb\b', re.I),                                     "trip",          "OEBB"),
+    (re.compile(r'vakatrip', re.I),                                     "trip",          "VakaTrip"),
+    (re.compile(r'visa.?agent', re.I),                                  "trip",          "Visa Agent Fee"),
+    (re.compile(r'\bvfs\b', re.I),                                      "trip",          "VFS Visa Fee"),
+    # amount-dependent (abs so large refunds also get trip)
+    (re.compile(r'i\s*shop', re.I),                                     _ishop_smartbuy_cat, "iShop"),
+    (re.compile(r'\bsmartbuy\b', re.I),                                 _ishop_smartbuy_cat, "SmartBuy"),
+    # travel
+    (re.compile(r'multitech.?motors', re.I),                            "travel",        "Multitech Motors"),
+    (re.compile(r'kulee?p.?pal|kuldeep.?pal|kulip.?pal', re.I),        "travel",        "Parking"),
+    (re.compile(r'\buber\b', re.I),                                     "travel",        "Uber"),
+    (re.compile(r'national.?highway', re.I),                            "travel",        "National Highways"),
+    # shopping
+    (re.compile(r'myntra', re.I),                                       "shopping",      "Myntra"),
+    (re.compile(r'flipkart', re.I),                                     "shopping",      "Flipkart"),
+    (re.compile(r'\btrent\b', re.I),                                    "shopping",      "Trent"),
+    (re.compile(r'gyftr', re.I),                                        "shopping",      "Gyftr"),
+    # grocery
+    (re.compile(r'\bs\.?\s*sons?\b', re.I),                            "grocery",       "S Sons"),
+    (re.compile(r'innovative.?retail', re.I),                           "grocery",       "Innovative Retail"),
+    (re.compile(r'big.?basket', re.I),                                  "grocery",       "BigBasket"),
+    (re.compile(r'msdp.?saini|m\.?s\.?d\.?p\.?\s*saini', re.I),       "grocery",       "M S D P Saini"),
+    # baby
+    (re.compile(r'hopscotch', re.I),                                    "baby",          "Hopscotch"),
+    (re.compile(r'rainbow.?toys', re.I),                                "baby",          "Rainbow Toys"),
+    # health
+    (re.compile(r'vijay.?thakur', re.I),                                "health",        "Salon"),
+    (re.compile(r'parmod.?bhatia', re.I),                               "health",        "Parmod Bhatia (Medicine)"),
+    (re.compile(r'pharmeasy', re.I),                                    "health",        "PharmEasy"),
+    (re.compile(r'yes.?madam|yesmadam', re.I),                          "health",        "Salon"),
+    (re.compile(r'everyday.?fitness', re.I),                            "health",        "Everyday Fitness"),
+    # utilities
+    (re.compile(r'netflix', re.I),                                      "utilities",     "Netflix"),
+    (re.compile(r'policybazaar', re.I),                                 "utilities",     "PolicyBazaar (Insurance)"),
+    # upskill_ai
+    (re.compile(r'linkedin', re.I),                                     "upskill_ai",    "LinkedIn"),
+    (re.compile(r'anthropic', re.I),                                    "upskill_ai",    "Anthropic"),
+    (re.compile(r'openai|chatgpt', re.I),                               "upskill_ai",    "ChatGPT / OpenAI"),
+    (re.compile(r'greatfrontend', re.I),                                "upskill_ai",    "GreatFrontend"),
+    (re.compile(r'\bcursor\b', re.I),                                   "upskill_ai",    "Cursor"),
+    (re.compile(r'aseem.?rastogi', re.I),                               "upskill_ai",    "Aseem Rastogi"),
+    # papa
+    (re.compile(r'patel.?bhavesh', re.I),                               "papa",          "Patel Bhavesh"),
+    (re.compile(r'bureau.?of.?energy', re.I),                           "papa",          "Bureau of Energy"),
+    # investments
+    (re.compile(r'nps.?trust|\bnps\b', re.I),                          "investments",   "NPS Trust"),
+    # tax
+    (re.compile(r'\bcbdt', re.I),                                       "tax",           "Income Tax (CBDT)"),
+    (re.compile(r'tin.?2.?o', re.I),                                    "tax",           "Tin 2 O"),
+    # rohan
+    (re.compile(r'global.?value.*cash.?back|cash.?back.*global.?value', re.I), "rohan", "Global Value Cash Back"),
+]
+
+
+def _apply_tier1_rules(transactions: list) -> None:
+    """Apply Tier 1 named-merchant regex rules to still-unclassified transactions."""
+    for t in transactions:
+        if t.category:
+            continue
+        haystack = f"{t.merchant} {t.description}"
+        for pattern, cat, short in _TIER1_RULES:
+            if pattern.search(haystack):
+                t.category = cat(t) if callable(cat) else cat
+                t.merchant_short = t.merchant if short is _T else short
+                logger.info(
+                    f"Tier1 rule: {t.merchant[:60]} → {t.category}/{t.merchant_short}"
+                    f"  ₹{t.amount:,.0f}"
+                )
+                break
 
 
 def _tag_fuel_transactions(transactions: List[Transaction]) -> None:
@@ -413,6 +454,9 @@ class ExpenseClassifier:
 
         # Step 2 — apply manual suppress/override rules (wins over Rohan/EMI auto-detection)
         transactions = _apply_transaction_overrides(transactions, emi_config)
+
+        # Step 3 — apply Tier 1 named-merchant regex rules (no Claude call needed)
+        _apply_tier1_rules(transactions)
 
         # Only send non-pre-classified transactions to Claude
         normal = [t for t in transactions if not t.category]

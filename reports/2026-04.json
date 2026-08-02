@@ -1,14 +1,15 @@
 {
-  "outside_food": 20171.55,
-  "others": 1836.49,
+  "outside_food": 20251.55,
+  "others": 4267.48,
+  "tax": 296.01,
   "health": 4418.7,
-  "travel": 27859.97,
-  "utilities": 21661.0,
+  "travel": 27302.97,
+  "utilities": 21311.0,
   "shopping": 24219.82,
-  "grocery": 5279.1,
   "one_time": 4968.0,
   "trip": -174432.0,
   "rohan": 33098.8,
+  "grocery": 3379.1,
   "upskill_ai": 399.0,
   "baby": 2380.43
 }
