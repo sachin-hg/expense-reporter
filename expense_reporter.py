@@ -68,6 +68,30 @@ def load_cached_pdfs() -> list:
     return results
 
 
+def load_from_cache_dir(year: int, month: int) -> list:
+    """Create dummy PDFResult objects from cache/*.json so StatementProcessor hits the cache.
+
+    Used when PDFs are unavailable (e.g. accounts.json missing) but prior extractions exist.
+    """
+    from src.email_fetcher import PDFResult
+    from src.local_fetcher import is_relevant_for_month
+
+    results = []
+    for json_file in sorted(Path("cache").glob("*.json")):
+        stem = json_file.stem
+        if not is_relevant_for_month(stem, year, month):
+            continue
+        results.append(
+            PDFResult(
+                bytes=b"",      # StatementProcessor will use cache, never reads bytes
+                subject=stem,
+                email_date=date.today(),
+                account="cache",
+            )
+        )
+    return results
+
+
 def main():
     parser = argparse.ArgumentParser(description="Generate monthly expense report")
     parser.add_argument(
@@ -83,6 +107,11 @@ def main():
         "--force-fresh",
         action="store_true",
         help="Ignore cached Claude extractions and re-process all PDFs",
+    )
+    parser.add_argument(
+        "--from-cache",
+        action="store_true",
+        help="Rebuild report from cache/*.json extractions (no Gmail, no PDFs needed)",
     )
     parser.add_argument(
         "--local",
@@ -114,6 +143,12 @@ def main():
     elif args.skip_fetch:
         logger.info("--skip-fetch: loading PDFs from data/")
         pdf_results = load_cached_pdfs()
+    elif args.from_cache:
+        logger.info("--from-cache: rebuilding from cache/*.json extractions")
+        if all_months_mode:
+            logger.error("--from-cache is not supported with all-months mode (requires --month)")
+            sys.exit(1)
+        pdf_results = load_from_cache_dir(year, month)
     else:
         from src.email_fetcher import GmailFetcher
 

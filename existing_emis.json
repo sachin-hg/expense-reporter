@@ -49,6 +49,14 @@
   {
     "type": "override",
     "identifier": "jiana adventures",
+    "date": "2026-04-13",
+    "amount": 4968,
+    "category": "one_time",
+    "label": "Biwu Birthday Party"
+  },
+  {
+    "type": "override",
+    "identifier": "jiana adventures",
     "date": "2026-02-21",
     "amount": 20849,
     "category": "one_time",
@@ -89,5 +97,87 @@
     "amount": 71589,
     "category": "investments",
     "label": "Gold Coin"
+  },
+  {
+    "type": "override",
+    "identifier": "om sweets",
+    "date": "2026-06-27",
+    "amount": 12663,
+    "category": "one_time",
+    "label": "Papa farewell"
+  },
+  {
+    "type": "suppress",
+    "identifier": "swiggy",
+    "date": "2026-06-18",
+    "amount": 5977,
+    "note": "sahajdeep farewell, false positive"
+  },
+  {
+    "type": "suppress",
+    "identifier": "down town",
+    "date": "2026-06-18",
+    "amount": 1301,
+    "note": "sahajdeep farewell, false positive"
+  },
+  {
+    "type": "override",
+    "identifier": "sonu",
+    "date": "2026-05-16",
+    "amount": 1600,
+    "category": "shopping",
+    "label": "Rajouri Garden"
+  },
+  {
+    "type": "override",
+    "identifier": "s v creation",
+    "date": "2026-05-16",
+    "amount": 7999,
+    "category": "shopping",
+    "label": "Rajouri Garden"
+  },
+  {
+    "type": "override",
+    "identifier": "mala mangwani",
+    "date": "2026-05-16",
+    "amount": 4500,
+    "category": "shopping",
+    "label": "Rajouri Garden"
+  },
+  {
+    "type": "override",
+    "identifier": "divyam goel",
+    "date": "2026-05-08",
+    "amount": 3263,
+    "category": "trip",
+    "label": "Divyam Goel (Trip)"
+  },
+  {
+    "type": "suppress",
+    "identifier": "swiggy",
+    "date": "2026-04-02",
+    "amount": 18754,
+    "note": "priya farewell, false positive"
+  },
+  {
+    "type": "suppress",
+    "identifier": "gyftr",
+    "date": "2026-03-05",
+    "amount": 7020,
+    "note": "nagpal/shitanshu wedding gift cards"
+  },
+  {
+    "type": "suppress",
+    "identifier": "gyftr",
+    "date": "2026-03-21",
+    "amount": 1950,
+    "note": "nagpal/shitanshu wedding gift cards"
+  },
+  {
+    "type": "suppress",
+    "identifier": "gyftr",
+    "date": "2026-03-24",
+    "amount": 1000,
+    "note": "nagpal/shitanshu wedding gift cards"
   }
 ]

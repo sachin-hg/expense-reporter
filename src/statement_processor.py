@@ -179,6 +179,10 @@ class StatementProcessor:
                     logger.debug(f"Skipping ICICI bill payment: {t.get('merchant')}")
                     continue
 
+                if self._is_cc_payment(t):
+                    logger.debug(f"Skipping CC payment: {t.get('merchant')}")
+                    continue
+
                 usd_amount = None
                 if t.get("foreign_amount") and t.get("foreign_currency", "").upper() == "USD":
                     try:
@@ -224,11 +228,12 @@ class StatementProcessor:
         if "bill payment" in combined and self._CARD_PREFIXES.search(combined):
             return True
 
-        # Generic CC payment (e.g. "BPPY CC PAYMENT BD016101...")
-        if re.search(r'\bcc payment\b', combined):
-            return True
-
         return False
+
+    def _is_cc_payment(self, t: dict) -> bool:
+        """Return True for credit-card bill payment entries in any bank statement."""
+        combined = (t.get("description", "") + " " + t.get("merchant", "")).lower()
+        return bool(re.search(r'\bcc payment\b', combined))
 
     def _is_icici_ignored(self, t: dict) -> bool:
         """Return True for ICICI credit entries that are card bill payments, not refunds."""

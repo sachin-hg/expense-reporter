@@ -1,14 +1,15 @@
 {
   "grocery": 6387.77,
-  "outside_food": 13685.49,
+  "outside_food": 14045.49,
   "upskill_ai": 10619.99,
   "baby": 4374.2,
   "papa": 10623.9,
   "shopping": 2735.82,
   "investments": 244247.0,
-  "utilities": 12027.0,
+  "utilities": 11667.0,
   "others": 5783.46,
   "travel": 16603.9,
-  "health": 2456.0,
+  "health": 1896.0,
+  "medicine": 560.0,
   "tax": 49600.0
 }
