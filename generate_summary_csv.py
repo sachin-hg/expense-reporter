@@ -24,11 +24,19 @@ def main():
 
     month_labels = list(months.keys())
 
+    def rohan_adjusted(raw: float) -> float:
+        amt = (raw + raw * 0.02 * 1.18) * 145 / 150
+        amt = amt - min(amt * 0.01, 1000)
+        return round(amt, 2)
+
     rows = []
     for cat in CATEGORIES:
         row = [CATEGORY_LABELS.get(cat, cat)]
         for lbl in month_labels:
-            row.append(round(months[lbl].get(cat, 0.0), 2))
+            val = months[lbl].get(cat, 0.0)
+            if cat == "rohan" and val != 0.0:
+                val = rohan_adjusted(val)
+            row.append(round(val, 2))
         rows.append(row)
 
     total_row = ["Total"]
