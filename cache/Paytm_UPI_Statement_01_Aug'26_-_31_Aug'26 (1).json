@@ -1,0 +1,188 @@
+{
+  "statement_period": {
+    "from": "2026-08-01",
+    "to": "2026-08-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-08-31",
+      "merchant": "HDFC Bank Credit Card XXXX XXXX XXXX 2646",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 2646 UPI ID: ccbillpay@ptybl UPI Ref No: 214546672640 Order ID: 27538370010 #Bill Payments",
+      "amount": 1880,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-31",
+      "merchant": "Sachin Agrawal",
+      "description": "Received from Sachin Agrawal UPI ID: ******5389@ptyes UPI Ref No: 214546357627 #Money Received",
+      "amount": -99000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-31",
+      "merchant": "Indstocks Private Limited Penny",
+      "description": "Paid to Indstocks Private Limited Penny UPI ID: indstocksbav@hdfcbank UPI Ref No: 313651261526 Note: Account Verification #Miscellaneous",
+      "amount": 1,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "Vijay Thakur",
+      "description": "Paid to Vijay Thakur UPI ID: paytmqr281005050101fo07u2yj48f2@paytm UPI Ref No: 613157256187 #Shopping",
+      "amount": 180,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "Amazon Pay Balance",
+      "description": "Paid to Amazon Pay Balance UPI ID: amazonpaybalanceload@rapl UPI Ref No: 313567997114 Note: You are paying for an Amazon order #Money Transfer",
+      "amount": 416.03,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "Prime Ministers Museum And Library",
+      "description": "Paid to Prime Ministers Museum And Library UPI ID: sbipmopad.022211900497669-dl041900@sbipay UPI Ref No: 313478821765 #Miscellaneous",
+      "amount": 270,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "Cafe Parmesan",
+      "description": "Paid to Cafe Parmesan UPI ID: q904093795@ybl UPI Ref No: 214243276930 #Food",
+      "amount": 987,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "P K Dept Store",
+      "description": "Paid to P K Dept Store UPI ID: paytm.s1vti7h@pty UPI Ref No: 313375967570 #Groceries",
+      "amount": 45,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "Sindhi Namkeen And Dryfruits",
+      "description": "Paid to Sindhi Namkeen And Dryfruits UPI ID: paytmqr5bvuzu@paytm UPI Ref No: 313375678314 #Miscellaneous",
+      "amount": 340,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "Blinkit",
+      "description": "Paid to Blinkit UPI ID: blinkit.payu@hdfcbank UPI Ref No: 214093524846 Note: UPIIntent #Groceries",
+      "amount": 297,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI ID: q223063978@ybl UPI Ref No: 612826917050 #Food",
+      "amount": 27,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-14",
+      "merchant": "Sonu",
+      "description": "Money sent to Sonu UPI ID: goodwillpacktech@oksbi UPI Ref No: 612196618230 #Money Transfer",
+      "amount": 170,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-11",
+      "merchant": "Blinkit",
+      "description": "Paid to Blinkit UPI ID: blinkit.payu@hdfcbank UPI Ref No: 312262319270 Note: UPIIntent #Groceries",
+      "amount": 650,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-10",
+      "merchant": "Amazon India",
+      "description": "Paid to Amazon India UPI ID: amazonupi@apl UPI Ref No: 312197884437 Note: You are paying for an Amazon order #Shopping",
+      "amount": 151.97,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-09",
+      "merchant": "Kprs Enterprises",
+      "description": "Paid to Kprs Enterprises UPI ID: bharatpe90718705258@yesbankltd UPI Ref No: 312111019287 Note: Verified Merchant #Groceries",
+      "amount": 200,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-06",
+      "merchant": "Fresh N Up",
+      "description": "Paid to Fresh N Up UPI ID: q657890040@ybl UPI Ref No: 311904479100 #Food",
+      "amount": 177,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-03",
+      "merchant": "HDFC Bank Credit Card XXXX XXXX XXXX 2646",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 2646 UPI ID: ccbillpay@ptybl UPI Ref No: 212273779246 Order ID: 27397010881 #Bill Payments",
+      "amount": 4623,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-02",
+      "merchant": "Amazon Pay Balance",
+      "description": "Paid to Amazon Pay Balance UPI ID: amazonpaybalanceload@rapl UPI Ref No: 611447442667 Note: You are paying for an Amazon order #Money Transfer",
+      "amount": 125.15,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-02",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria UPI ID: rjtkhajuria-2@okhdfcbank UPI Ref No: 127232649911 #Money Received",
+      "amount": -28500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-01",
+      "merchant": "Vansadia Advaitsinh Kiritsinh",
+      "description": "Received from Vansadia Advaitsinh Kiritsinh UPI ID: advait.126@okhdfcbank UPI Ref No: 127184557360 #Money Received",
+      "amount": -20000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

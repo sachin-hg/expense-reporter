@@ -1,0 +1,575 @@
+{
+  "statement_period": {
+    "from": "2026-08-01",
+    "to": "2026-08-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-08-31",
+      "merchant": "HDFC Bank Credit Card XXXX8870",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 8870 #Bill Payments",
+      "amount": 957,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-31",
+      "merchant": "HDFC Bank Credit Card XXXX2378",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 2378 #Bill Payments",
+      "amount": 12438,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-31",
+      "merchant": "HDFC Bank Credit Card XXXX5619",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 5619 #Bill Payments",
+      "amount": 160245,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-31",
+      "merchant": "Monika Aggarwal",
+      "description": "Money sent to Monika Aggarwal #Money Transfer",
+      "amount": 99000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "Seema Devi",
+      "description": "Paid to Seema Devi #Groceries",
+      "amount": 40,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar #Groceries",
+      "amount": 452,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "Mr Kapil Dev",
+      "description": "Paid to Mr Kapil Dev #Miscellaneous",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "Art cafe Teen Murti",
+      "description": "Paid to Art cafe Teen Murti #Food",
+      "amount": 422,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "Baba Ji Restaurant",
+      "description": "Paid to Baba Ji Restaurant #Food",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "KARUNA",
+      "description": "Paid to KARUNA #Shopping",
+      "amount": 150,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar #Groceries",
+      "amount": 302,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "Jio Mobile 7838573831",
+      "description": "Recharge of Jio Mobile 7838573831 #Bill Payments",
+      "amount": 902,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "Bijendra Kumar",
+      "description": "Paid to Bijendra Kumar #Groceries",
+      "amount": 20,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "S Sons",
+      "description": "Paid to S Sons #Groceries",
+      "amount": 65,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 70,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-26",
+      "merchant": "M S Delhi Airport Parking Services Private Limited Receivables Account",
+      "description": "Paid to M S Delhi Airport Parking Services Private Limited Receivables Account #Taxi",
+      "amount": 320,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-26",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 220,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "Cityflo",
+      "description": "Paid to Cityflo #Travel",
+      "amount": 885,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "Youtube",
+      "description": "Automatic payment of ₹219 setup for Youtube MandateExecute #Bill Payments",
+      "amount": 2,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "Kprs Enterprises",
+      "description": "Paid to Kprs Enterprises Verified Merchant #Groceries",
+      "amount": 295,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "Fresh N Up",
+      "description": "Paid to Fresh N Up #Food",
+      "amount": 135,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "Fresh N Up",
+      "description": "Paid to Fresh N Up #Food",
+      "amount": 188,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "Sethis delicacy",
+      "description": "Paid to Sethis delicacy #Groceries",
+      "amount": 845,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "Sindhi Namkeen And Dryfruits",
+      "description": "Paid to Sindhi Namkeen And Dryfruits #Miscellaneous",
+      "amount": 53,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "Sindhi Namkeen And Dryfruits",
+      "description": "Paid to Sindhi Namkeen And Dryfruits #Miscellaneous",
+      "amount": 507,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar #Groceries",
+      "amount": 271,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "ICICI FASTag HR875657",
+      "description": "Recharge of ICICI FASTag HR875657 #Travel",
+      "amount": 500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-20",
+      "merchant": "Tanuj Gupta",
+      "description": "Paid to Tanuj Gupta #Groceries",
+      "amount": 314,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-20",
+      "merchant": "Vikas Garg",
+      "description": "Paid to Vikas Garg #Shopping",
+      "amount": 500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-19",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 70,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-19",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 130,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-19",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-19",
+      "merchant": "IDBI Bank FASTag HR87T1432",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432 #Travel",
+      "amount": 500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-18",
+      "merchant": "Anil Kumar",
+      "description": "Money sent to Anil Kumar #Money Transfer",
+      "amount": 750,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-18",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-17",
+      "merchant": "INDMoney",
+      "description": "Paid to INDMoney Pay via Razorpay #Financial Services",
+      "amount": 150000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-17",
+      "merchant": "HP Service Center",
+      "description": "Paid to HP Service Center #Fuel",
+      "amount": 2020,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-16",
+      "merchant": "Kprs Enterprises",
+      "description": "Paid to Kprs Enterprises Verified Merchant #Groceries",
+      "amount": 200,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-16",
+      "merchant": "Shri Ram Paneer Bhandar",
+      "description": "Paid to Shri Ram Paneer Bhandar #Groceries",
+      "amount": 381,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-16",
+      "merchant": "Haveli T1",
+      "description": "Paid to Haveli T1 #Food",
+      "amount": 1190,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-15",
+      "merchant": "Abhi Bhavi Filling Station",
+      "description": "Paid to Abhi Bhavi Filling Station #Fuel",
+      "amount": 2020,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-12",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-12",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 75,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-11",
+      "merchant": "P764 PHD ILD Trade Centre",
+      "description": "Paid to P764 PHD ILD Trade Centre #Food",
+      "amount": 302.4,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-11",
+      "merchant": "Google Cloud",
+      "description": "Received from Google Cloud Refund for xo5ZcDkpt6hXDh3i #Money Received",
+      "amount": -2,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-11",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 15,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-11",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 100,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-11",
+      "merchant": "IDBI Bank FASTag HR87T1432",
+      "description": "Recharge of IDBI Bank FASTag HR87T1432 #Travel",
+      "amount": 300,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-09",
+      "merchant": "Vijay Thakur",
+      "description": "Paid to Vijay Thakur #Shopping",
+      "amount": 1050,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-08",
+      "merchant": "Dlf Avenue Saket",
+      "description": "Paid to Dlf Avenue Saket #Taxi",
+      "amount": 180,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-06",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 80,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-05",
+      "merchant": "S Sons",
+      "description": "Paid to S Sons #Groceries",
+      "amount": 115,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-05",
+      "merchant": "INDmoney",
+      "description": "Paid to INDmoney #Financial Services",
+      "amount": 400000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-05",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 95,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-04",
+      "merchant": "Kuldeep Pal",
+      "description": "Paid to Kuldeep Pal #Groceries",
+      "amount": 60,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-04",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 195,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-04",
+      "merchant": "Google Cloud",
+      "description": "Automatic payment of ₹15000 setup for Google Cloud RecurringTxn #Bill Payments",
+      "amount": 2,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-04",
+      "merchant": "Tim Tim Fresh",
+      "description": "Paid to Tim Tim Fresh #Groceries",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-03",
+      "merchant": "HDFC Bank Credit Card XXXX5619",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 5619 #Bill Payments",
+      "amount": 14725,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-03",
+      "merchant": "HDFC Bank Credit Card XXXX5619",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 5619 #Bill Payments",
+      "amount": 190000,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-03",
+      "merchant": "HDFC Bank Credit Card XXXX8870",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 8870 #Bill Payments",
+      "amount": 2276,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-03",
+      "merchant": "HDFC Bank Credit Card XXXX2378",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 2378 #Bill Payments",
+      "amount": 8877,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

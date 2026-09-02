@@ -1,0 +1,6 @@
+{
+  "statement_period": {"from": "2026-08-23", "to": "2026-09-22"},
+  "transactions": [
+    {"date": "2026-08-30", "merchant": "SWIGGY FOOD", "description": "SWIGGY FOOD BANGALO", "amount": 334.0, "owner": "", "foreign_amount": null, "foreign_currency": null}
+  ]
+}

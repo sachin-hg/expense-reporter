@@ -1,0 +1,296 @@
+{
+  "statement_period": {
+    "from": "2026-07-19",
+    "to": "2026-08-18"
+  },
+  "transactions": [
+    {
+      "date": "2026-07-21",
+      "merchant": "HINDUSTAN PETROLEUM C PANIPAT",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 3055.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-22",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -30.22,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-22",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -5.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-23",
+      "merchant": "NAVIN FUELS PR480211 FARIDABAD",
+      "description": "NAVIN FUELS PR480211 FARIDABAD IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-24",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-24",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-24",
+      "merchant": "MCDONALDS FARIDABAD",
+      "description": "MCDONALDS FARIDABAD IN",
+      "amount": 94.5,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-25",
+      "merchant": "WLIGOLA SIZZLERS DL GAUTAM BUDDH",
+      "description": "WLIGOLA SIZZLERS DL GAUTAM BUDDH IN",
+      "amount": 865.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-25",
+      "merchant": "HINDUSTAN PETROLEUM C PANIPAT",
+      "description": "HINDUSTAN PETROLEUM C PANIPAT IN",
+      "amount": 3055.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-25",
+      "merchant": "CHAAYOS DLF MALL OF I NOIDA",
+      "description": "CHAAYOS DLF MALL OF I NOIDA IN",
+      "amount": 403.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-26",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -30.22,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-26",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -5.44,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-28",
+      "merchant": "Muhavra Enterprises Pr FARIDABAD",
+      "description": "Muhavra Enterprises Pr FARIDABAD IN",
+      "amount": 1108.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-28",
+      "merchant": "FIRSTCRY PUNE",
+      "description": "FIRSTCRY PUNE IN",
+      "amount": 1041.04,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-30",
+      "merchant": "OM SWEETS PVT LTD FARIDABAD",
+      "description": "OM SWEETS PVT LTD FARIDABAD IN",
+      "amount": 700.01,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-07-31",
+      "merchant": "SHANTI SERVICE STATIO DELHI",
+      "description": "SHANTI SERVICE STATIO DELHI IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-01",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-01",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-03",
+      "merchant": "INFINITY PAYMENT RECEIVED",
+      "description": "INFINITY PAYMENT RECEIVED, THANK YOU",
+      "amount": -23659.41,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-04",
+      "merchant": "SAPRU CAR CARE CENTRE Gurgaon",
+      "description": "SAPRU CAR CARE CENTRE Gurgaon IN",
+      "amount": 4101.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-05",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -40.57,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-05",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -7.3,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-08",
+      "merchant": "Welcome Motors South Delhi",
+      "description": "Welcome Motors South Delhi IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-09",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-09",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-08",
+      "merchant": "EAZYDINER GURGAON",
+      "description": "EAZYDINER GURGAON IN",
+      "amount": 1640.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-08",
+      "merchant": "IKEA INDIA PVT LTD NEW DELHI",
+      "description": "IKEA INDIA PVT LTD NEW DELHI IN",
+      "amount": 2049.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-10",
+      "merchant": "MARKET 99 FARIDABAD",
+      "description": "MARKET 99 FARIDABAD IN",
+      "amount": 338.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-10",
+      "merchant": "FIRSTCRY PUNE",
+      "description": "FIRSTCRY PUNE IN",
+      "amount": 1437.33,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-15",
+      "merchant": "HINDUSTAN PETROLEUM CO Faridabad",
+      "description": "HINDUSTAN PETROLEUM CO Faridabad IN",
+      "amount": 2043.84,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-16",
+      "merchant": "Fuel Surcharges",
+      "description": "Fuel Surcharges",
+      "amount": -20.21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-16",
+      "merchant": "IGST-Rev-CI@18%",
+      "description": "IGST-Rev-CI@18%",
+      "amount": -3.64,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

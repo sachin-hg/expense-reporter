@@ -1,0 +1,26 @@
+{
+  "statement_period": {
+    "from": "2026-08-01",
+    "to": "2026-08-31"
+  },
+  "transactions": [
+    {
+      "date": "2026-08-18",
+      "merchant": "Cityflo",
+      "description": "Paid to Cityflo, Transaction ID: T2608181739507895294069, UTR No: 380086729468, Debited from XX4395",
+      "amount": 209.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-19",
+      "merchant": "Cityflo",
+      "description": "Paid to Cityflo, Transaction ID: T2608192012268399383326, UTR No: 099890076634, Debited from XX4395",
+      "amount": 312.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

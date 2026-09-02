@@ -1,0 +1,62 @@
+{
+  "statement_period": {
+    "from": "2026-07-23",
+    "to": "2026-08-22"
+  },
+  "transactions": [
+    {
+      "date": "2026-07-23",
+      "merchant": "Swiggy",
+      "description": "SwiggyBENGALURU",
+      "amount": 176.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-09",
+      "merchant": "Swiggy Food",
+      "description": "SWIGGY FOODBANGALORE",
+      "amount": 354.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-11",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -35.4,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-12",
+      "merchant": "Swiggy Food",
+      "description": "SWIGGY FOODBANGALORE",
+      "amount": 348.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-14",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -34.8,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-14",
+      "merchant": "PYU*Instamart Grocery",
+      "description": "PYU*Instamart GroceryBangalore",
+      "amount": 149.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

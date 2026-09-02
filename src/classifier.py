@@ -2,6 +2,7 @@
 
 import json
 import re
+from datetime import date as date_type
 from pathlib import Path
 from typing import List, Optional
 import anthropic
@@ -190,6 +191,46 @@ def _apply_transaction_overrides(transactions: List[Transaction], config: list) 
     return result
 
 
+def _inject_synthetic_transactions(transactions: List[Transaction], config: list) -> List[Transaction]:
+    """Inject synthetic transactions from type='inject' entries in existing_emis.json.
+
+    Used to split a suppressed original into multiple labelled parts.
+    Only injects entries whose year-month matches the current transaction set,
+    so running for a different month won't pollute the report.
+    """
+    inject_entries = [e for e in config if e.get("type") == "inject"]
+    if not inject_entries:
+        return transactions
+
+    active_months = {(t.date.year, t.date.month) for t in transactions}
+
+    synthetics = []
+    for entry in inject_entries:
+        date_str = entry.get("date", "")
+        if not date_str:
+            continue
+        d = date_type.fromisoformat(date_str)
+        if active_months and (d.year, d.month) not in active_months:
+            continue
+        t = Transaction(
+            date=d,
+            merchant=entry.get("merchant", "SYNTHETIC"),
+            description=entry.get("description", ""),
+            amount=float(entry.get("amount", 0)),
+            source_bank=entry.get("source_bank", ""),
+            source_account=entry.get("source_account", ""),
+            owner=entry.get("owner", ""),
+        )
+        t.category = entry.get("category", "")
+        t.merchant_short = entry.get("label", t.merchant)
+        logger.info(
+            f"Inject synthetic: {t.merchant[:60]} → {t.category}/{t.merchant_short}  ₹{t.amount:,.0f}"
+        )
+        synthetics.append(t)
+
+    return transactions + synthetics
+
+
 # Fuel surcharge refund patterns — used to back-identify the fuel purchase
 _FUEL_SURCHARGE_RE = re.compile(
     r'fuel\s+surcharge|petro\s+surcharge|petrol\s+surcharge\s+waiver', re.IGNORECASE
@@ -203,7 +244,7 @@ _NON_FUEL_MERCHANT_RE = re.compile(
     r'greatfrontend|cursor|patel.?bhavesh|parmod.?bhatia|policybazaar|myntra|flipkart|'
     r'trent|innovative.?retail|bigbasket|big.?basket|pharmeasy|cbdt|oebb|vakatrip|'
     r'visa.?agent|vfs|yes.?madam|yesmadam|everyday.?fitness|hopscotch|s\.?sons|'
-    r'vijay.?thakur|swiggy|zomato|amazon|blinkit|zepto|meesho|firstcry|first.?cry|'
+    r'vijay.?thakur|swiggy|zomato|amazon|blinkit|zepto|meesho|firstcry|first.?cry|k\.?y\.?a|'
     r'cloudnine|uber|national.?highway|kuleep.?pal|kuldeep.?pal|caf[ée]|rainbow.?toys',
     re.IGNORECASE
 )
@@ -238,6 +279,8 @@ _TIER1_RULES: list = [
     (re.compile(r'vakatrip', re.I),                                     "trip",          "VakaTrip"),
     (re.compile(r'visa.?agent', re.I),                                  "trip",          "Visa Agent Fee"),
     (re.compile(r'\bvfs\b', re.I),                                      "trip",          "VFS Visa Fee"),
+    # shopping — Myntra BEFORE SmartBuy so "MYNTRA VIA SMARTBUY" → shopping, not trip
+    (re.compile(r'myntra', re.I),                                       "shopping",      "Myntra"),
     # amount-dependent (abs so large refunds also get trip)
     (re.compile(r'i\s*shop', re.I),                                     _ishop_smartbuy_cat, "iShop"),
     (re.compile(r'\bsmartbuy\b', re.I),                                 _ishop_smartbuy_cat, "SmartBuy"),
@@ -246,8 +289,7 @@ _TIER1_RULES: list = [
     (re.compile(r'kulee?p.?pal|kuldeep.?pal|kulip.?pal', re.I),        "travel",        "Parking"),
     (re.compile(r'\buber\b', re.I),                                     "travel",        "Uber"),
     (re.compile(r'national.?highway', re.I),                            "travel",        "National Highways"),
-    # shopping
-    (re.compile(r'myntra', re.I),                                       "shopping",      "Myntra"),
+    # shopping (continued)
     (re.compile(r'flipkart', re.I),                                     "shopping",      "Flipkart"),
     (re.compile(r'\btrent\b', re.I),                                    "shopping",      "Trent"),
     (re.compile(r'gyftr', re.I),                                        "shopping",      "Gyftr"),
@@ -258,6 +300,7 @@ _TIER1_RULES: list = [
     (re.compile(r'msdp.?saini|m\.?s\.?d\.?p\.?\s*saini', re.I),       "grocery",       "M S D P Saini"),
     # baby
     (re.compile(r'hopscotch', re.I),                                    "baby",          "Hopscotch"),
+    (re.compile(r'k\.?y\.?a\b', re.I),                                  "baby",          "Hopscotch"),
     (re.compile(r'rainbow.?toys', re.I),                                "baby",          "Rainbow Toys"),
     # health
     (re.compile(r'vijay.?thakur', re.I),                                "health",        "Salon"),
@@ -268,6 +311,9 @@ _TIER1_RULES: list = [
     # utilities
     (re.compile(r'netflix', re.I),                                      "utilities",     "Netflix"),
     (re.compile(r'policybazaar', re.I),                                 "utilities",     "PolicyBazaar (Insurance)"),
+    (re.compile(r'hdfclife|hdfc.?life.?ins', re.I),                    "utilities",     "HDFC Life Insurance"),
+    (re.compile(r'maxlife|max.?life', re.I),                            "utilities",     "Max Life Insurance"),
+    (re.compile(r'iciciprulifi|icici.?pru', re.I),                      "utilities",     "ICICI Pru Life Insurance"),
     # upskill_ai
     (re.compile(r'linkedin', re.I),                                     "upskill_ai",    "LinkedIn"),
     (re.compile(r'anthropic', re.I),                                    "upskill_ai",    "Anthropic"),
@@ -454,6 +500,9 @@ class ExpenseClassifier:
 
         # Step 2 — apply manual suppress/override rules (wins over Rohan/EMI auto-detection)
         transactions = _apply_transaction_overrides(transactions, emi_config)
+
+        # Step 2b — inject synthetic transactions (e.g. split purchases)
+        transactions = _inject_synthetic_transactions(transactions, emi_config)
 
         # Step 3 — apply Tier 1 named-merchant regex rules (no Claude call needed)
         _apply_tier1_rules(transactions)
