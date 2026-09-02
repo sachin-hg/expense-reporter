@@ -213,7 +213,7 @@
   {"type": "override", "identifier": "trent", "date": "2026-08-13", "amount": 1007, "category": "rohan", "label": "Rohan Westside (Trent)"},
   {"type": "override", "identifier": "marks", "date": "2026-08-14", "amount": 5523, "category": "shopping", "label": "Monika Marks & Spencer"},
   {"type": "override", "identifier": "trent", "date": "2026-08-14", "amount": 10576, "category": "shopping", "label": "Monika Westside (Trent)"},
-  {"type": "override", "identifier": "max", "date": "2026-08-15", "amount": 5878, "category": "rohan", "label": "Rohan Max"},
+  {"type": "override", "identifier": "max", "date": "2026-08-15", "amount": 5878, "category": "rohan", "label": "Rohan Stanmax"},
   {"type": "override", "identifier": "myntra", "date": "2026-08-22", "amount": -1499, "category": "shopping", "label": "Monika Myntra"},
   {"type": "override", "identifier": "myntra", "date": "2026-08-22", "amount": -2408, "category": "shopping", "label": "Monika Myntra"},
   {"type": "override", "identifier": "myntra", "date": "2026-08-22", "amount": -1179, "category": "rohan", "label": "Rohan Myntra"},
@@ -232,5 +232,10 @@
   {"type": "override", "identifier": "myntra", "date": "2026-08-27", "amount": -1179, "category": "rohan", "label": "Rohan Myntra"},
   {"type": "override", "identifier": "myntra", "date": "2026-08-28", "amount": 1422, "category": "shopping", "label": "Monika Myntra (Denim Top)"},
   {"type": "override", "identifier": "myntra", "date": "2026-08-29", "amount": -2336, "category": "rohan", "label": "Rohan Myntra"},
-  {"type": "override", "identifier": "myntra", "date": "2026-08-29", "amount": -1349, "category": "rohan", "label": "Rohan Myntra"}
+  {"type": "override", "identifier": "myntra", "date": "2026-08-29", "amount": -1349, "category": "rohan", "label": "Rohan Myntra"},
+  {"type": "override", "identifier": "jio mobile 7838573831", "date": "2026-08-28", "amount": 902, "category": "papa", "label": "Jio Recharge (Papa)"},
+  {"type": "suppress", "identifier": "zomato", "date": "2026-08-12", "amount": 1203},
+  {"type": "suppress", "identifier": "zomato", "date": "2026-08-25", "amount": 707},
+  {"type": "suppress", "identifier": "pizza hut", "date": "2026-08-26", "amount": 291},
+  {"type": "suppress", "identifier": "swiggy", "date": "2026-08-17", "amount": 490}
 ]
