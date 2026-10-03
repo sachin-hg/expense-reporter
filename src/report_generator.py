@@ -126,7 +126,7 @@ class ReportGenerator:
             if current == 0 and all(v == 0 for v in prev_vals):
                 continue
 
-            if cat != "nitin":
+            if cat not in ("nitin", "investments"):
                 total_current += current
                 for i, v in enumerate(prev_vals):
                     total_prev[i] += v
@@ -204,10 +204,12 @@ class ReportGenerator:
 
         all_months = history + [(current_label, current_totals)]
 
-        # ── Line chart: month-on-month trend ────────────────────────────
+        # ── Line chart: month-on-month trend (investments excluded) ────────
+        _CHART_EXCLUDE = {"investments", "nitin"}
         active_cats = [
             cat for cat in CATEGORIES
-            if any(totals.get(cat, 0) != 0 for _, totals in all_months)
+            if cat not in _CHART_EXCLUDE
+            and any(totals.get(cat, 0) != 0 for _, totals in all_months)
         ]
 
         all_vals_k = [
@@ -239,12 +241,12 @@ class ReportGenerator:
         ))
         lines.append("")
 
-        # ── Pie chart: current month category breakdown ──────────────────
+        # ── Pie chart: current month category breakdown (investments excluded) ──
         pie_data = sorted(
             [
                 (CATEGORY_LABELS.get(cat, cat), round(sum(t.amount for t in txns)))
                 for cat, txns in by_category.items()
-                if sum(t.amount for t in txns) > 0
+                if cat not in _CHART_EXCLUDE and sum(t.amount for t in txns) > 0
             ],
             key=lambda x: CATEGORIES.index(
                 next((c for c in CATEGORIES if CATEGORY_LABELS.get(c) == x[0]), "others")
@@ -258,6 +260,20 @@ class ReportGenerator:
             lines.append(f'    "{label}" : {amount}')
         lines.append("```")
         lines.append("")
+
+        # ── Investments line chart ───────────────────────────────────────
+        inv_vals = [round(totals.get("investments", 0) / 1000, 1) for _, totals in all_months]
+        if any(v != 0 for v in inv_vals):
+            inv_max_k = max(inv_vals)
+            inv_y_max = max(math.ceil(inv_max_k / 50) * 50, 50)
+            lines.append("```mermaid")
+            lines.append("xychart-beta")
+            lines.append('    title "Investments Trend (Rs thousands)"')
+            lines.append(f"    x-axis [{x_labels}]")
+            lines.append(f'    y-axis "Rs Thousands" 0 --> {inv_y_max}')
+            lines.append(f'    bar "Investments" [{", ".join(str(v) for v in inv_vals)}]')
+            lines.append("```")
+            lines.append("")
 
         return lines
 

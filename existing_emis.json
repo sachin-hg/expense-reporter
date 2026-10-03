@@ -240,5 +240,6 @@
   {"type": "suppress", "identifier": "swiggy", "date": "2026-08-17", "amount": 490},
   {"type": "override", "identifier": "reliance retail", "date": "2026-09-09", "amount": 1061, "category": "utilities", "label": "Reliance Jio"},
   {"type": "override", "identifier": "reward360", "date": "2026-09-17", "amount": 29885, "category": "nitin", "label": "Reward360 (Nitin)"},
-  {"type": "override", "identifier": "funky kingdom", "category": "outside_food", "label": "Funky Kingdom"}
+  {"type": "override", "identifier": "funky kingdom", "category": "outside_food", "label": "Funky Kingdom"},
+  {"type": "override", "identifier": "faridabad horse riding", "date": "2026-09-06", "amount": 1577, "category": "outside_food", "label": "Cafe Cavello"}
 ]
