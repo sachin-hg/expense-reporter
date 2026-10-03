@@ -241,5 +241,26 @@
   {"type": "override", "identifier": "reliance retail", "date": "2026-09-09", "amount": 1061, "category": "utilities", "label": "Reliance Jio"},
   {"type": "override", "identifier": "reward360", "date": "2026-09-17", "amount": 29885, "category": "nitin", "label": "Reward360 (Nitin)"},
   {"type": "override", "identifier": "funky kingdom", "category": "outside_food", "label": "Funky Kingdom"},
-  {"type": "override", "identifier": "faridabad horse riding", "date": "2026-09-06", "amount": 1577, "category": "outside_food", "label": "Cafe Cavello"}
+  {"type": "override", "identifier": "faridabad horse riding", "date": "2026-09-06", "amount": 1577, "category": "outside_food", "label": "Cafe Cavello"},
+
+  {"type": "override", "identifier": "tata motors", "date": "2026-09-21", "amount": 11000, "category": "one_time", "label": "Tata Motors"},
+
+  {"type": "inject", "date": "2026-07-24", "merchant": "INDMONEY [JUL24]", "description": "IndMoney US stocks", "amount": 450000, "category": "investments", "label": "IndMoney"},
+
+  {"type": "suppress", "identifier": "indmoney", "date": "2026-08-05", "amount": 400000, "note": "replaced by inject with resilient entry"},
+  {"type": "suppress", "identifier": "indmoney", "date": "2026-08-17", "amount": 150000, "note": "replaced by inject with resilient entry"},
+
+  {"type": "inject", "date": "2026-08-05", "merchant": "INDMONEY [AUG05]", "description": "IndMoney US stocks", "amount": 400000, "category": "investments", "label": "IndMoney"},
+  {"type": "inject", "date": "2026-08-17", "merchant": "INDMONEY [AUG17]", "description": "IndMoney US stocks", "amount": 150000, "category": "investments", "label": "IndMoney"},
+
+  {"type": "inject", "date": "2026-09-15", "merchant": "INDMONEY [SEP15]", "description": "IndMoney US stocks", "amount": 450000, "category": "investments", "label": "IndMoney"},
+  {"type": "inject", "date": "2026-09-16", "merchant": "INDMONEY [SEP16]", "description": "IndMoney US stocks", "amount": 550000, "category": "investments", "label": "IndMoney"},
+  {"type": "suppress", "identifier": "indmoney", "date": "2026-09-22", "amount": 450000, "note": "replaced by TCS-adjusted inject (net 377156)"},
+
+  {"type": "inject", "date": "2026-09-22", "merchant": "INDMONEY [SEP22]", "description": "IndMoney US stocks (₹4,50,000 gross; TCS ₹72,844 deducted)", "amount": 377156, "category": "investments", "label": "IndMoney (TCS ₹72,844)"},
+  {"type": "inject", "date": "2026-09-22", "merchant": "ZERODHA [SEP22]", "description": "Zerodha redemption from Indian stocks pushed to US stocks via IndMoney", "amount": -656004, "category": "investments", "label": "Zerodha (India→US)"},
+
+  {"type": "inject", "date": "2026-10-01", "merchant": "INDMONEY [OCT01-2L]", "description": "IndMoney US stocks (₹2,00,000 gross; TCS ₹33,293 deducted)", "amount": 166706.64, "category": "investments", "label": "IndMoney (TCS ₹33,293)"},
+  {"type": "inject", "date": "2026-10-01", "merchant": "INDMONEY [OCT01-4.5L-A]", "description": "IndMoney US stocks (₹4,50,000 gross; TCS ₹74,929 deducted)", "amount": 375071, "category": "investments", "label": "IndMoney (TCS ₹74,929)"},
+  {"type": "inject", "date": "2026-10-01", "merchant": "INDMONEY [OCT01-4.5L-B]", "description": "IndMoney US stocks", "amount": 450000, "category": "investments", "label": "IndMoney"}
 ]

@@ -1,14 +1,15 @@
 {
   "outside_food": 19297.33,
-  "travel": 39322.74,
-  "investments": 833646.0,
+  "travel": 28322.74,
+  "investments": 1104797.0,
   "shopping": 9596.0,
   "grocery": 3222.0,
   "utilities": 12950.36,
   "trip": 40445.46,
-  "others": 2123.15,
+  "others": 2124.15,
   "nitin": 29885.0,
   "rohan": -22.6,
   "upskill_ai": 3962.42,
-  "health": 390.0
+  "health": 390.0,
+  "one_time": 11000.0
 }

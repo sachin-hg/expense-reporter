@@ -126,7 +126,7 @@ class ReportGenerator:
             if current == 0 and all(v == 0 for v in prev_vals):
                 continue
 
-            if cat not in ("nitin", "investments"):
+            if cat not in ("nitin", "rohan", "investments"):
                 total_current += current
                 for i, v in enumerate(prev_vals):
                     total_prev[i] += v
