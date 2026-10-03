@@ -1,0 +1,9 @@
+{
+  "statement_period": {"from": "2026-09-22", "to": "2026-10-22"},
+  "transactions": [
+    {"date": "2026-09-24", "merchant": "RSP*SWIGGY PVT LTD FO BENGALU", "description": "RSP*SWIGGY PVT LTD FO BENGALU", "amount": 364.0, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-26", "merchant": "SWIGGY FOOD BANGALO", "description": "SWIGGY FOOD BANGALO", "amount": 577.0, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-26", "merchant": "10% Swiggy CashBack", "description": "10% Swiggy CashBack", "amount": -36.40, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-28", "merchant": "10% Swiggy CashBack", "description": "10% Swiggy CashBack", "amount": -57.70, "owner": "", "foreign_amount": null, "foreign_currency": null}
+  ]
+}

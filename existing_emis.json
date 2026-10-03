@@ -237,5 +237,8 @@
   {"type": "suppress", "identifier": "zomato", "date": "2026-08-12", "amount": 1203},
   {"type": "suppress", "identifier": "zomato", "date": "2026-08-25", "amount": 707},
   {"type": "suppress", "identifier": "pizza hut", "date": "2026-08-26", "amount": 291},
-  {"type": "suppress", "identifier": "swiggy", "date": "2026-08-17", "amount": 490}
+  {"type": "suppress", "identifier": "swiggy", "date": "2026-08-17", "amount": 490},
+  {"type": "override", "identifier": "reliance retail", "date": "2026-09-09", "amount": 1061, "category": "utilities", "label": "Reliance Jio"},
+  {"type": "override", "identifier": "reward360", "date": "2026-09-17", "amount": 29885, "category": "nitin", "label": "Reward360 (Nitin)"},
+  {"type": "override", "identifier": "funky kingdom", "category": "outside_food", "label": "Funky Kingdom"}
 ]

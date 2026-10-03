@@ -24,6 +24,7 @@ CATEGORY_LABELS: Dict[str, str] = {
     "health": "Health, Fitness & Self Care",
     "upskill_ai": "Upskill / AI",
     "rohan": "Rohan",
+    "nitin": "Nitin",
     "papa": "Papa",
     "one_time": "One-Time Expense",
     "investments": "Investments",
@@ -125,9 +126,10 @@ class ReportGenerator:
             if current == 0 and all(v == 0 for v in prev_vals):
                 continue
 
-            total_current += current
-            for i, v in enumerate(prev_vals):
-                total_prev[i] += v
+            if cat != "nitin":
+                total_current += current
+                for i, v in enumerate(prev_vals):
+                    total_prev[i] += v
 
             row = [CATEGORY_LABELS.get(cat, cat), self._fmt(current)]
             for v in prev_vals:

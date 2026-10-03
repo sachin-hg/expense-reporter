@@ -1,0 +1,746 @@
+{
+  "statement_period": {
+    "from": "2026-08-23",
+    "to": "2026-09-22"
+  },
+  "transactions": [
+    {
+      "date": "2026-08-22",
+      "merchant": "INNOVATIVE RETAIL CON",
+      "description": "INNOVATIVE RETAIL CONBENGALURU",
+      "amount": 382.7,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "IGST",
+      "description": "IGST-VPS2723576009420-RATE 18.0 -06 (Ref# 09999999980822007418328)",
+      "amount": 83.7,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "EMI MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 17148.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 1007.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 2408.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 702.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 1259.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 2408.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 1495.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 1179.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-22",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 1499.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-23",
+      "merchant": "Global Value Cash Back",
+      "description": "Global Value_Cash Back",
+      "amount": -45.35,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-23",
+      "merchant": "PAY*MYNTRA VIA SMARTB",
+      "description": "EMI PAY*MYNTRA VIA SMARTBGURGAON",
+      "amount": 13109.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-23",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 1279.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-24",
+      "merchant": "ASSPL",
+      "description": "EMI ASSPLBangalore",
+      "amount": 3979.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "PTM*ZOMATO LIMITED",
+      "description": "PTM*ZOMATO LIMITEDNEW DELHI",
+      "amount": 706.8,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "SWIGGY FOOD",
+      "description": "SWIGGY FOODBANGALORE",
+      "amount": 737.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "ASSPL",
+      "description": "ASSPLBangalore",
+      "amount": 2245.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "PAY*MYNTRA VIA SMARTB",
+      "description": "PAY*MYNTRA VIA SMARTBGURGAON",
+      "amount": 2408.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "PAY*MYNTRA VIA SMARTB",
+      "description": "PAY*MYNTRA VIA SMARTBGURGAON",
+      "amount": 2408.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-26",
+      "merchant": "P748 PIZZA HUT T3 METRO",
+      "description": "P748 PIZZA HUT T3 METRONEW DELHI",
+      "amount": 290.85,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "HINDUSTAN PETROLEUM CORP",
+      "description": "EMI HINDUSTAN PETROLEUM CORPANIPAT",
+      "amount": 3935.21,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "PAY*MYNTRA VIA SMARTB",
+      "description": "PAY*MYNTRA VIA SMARTBGURGAON",
+      "amount": 1179.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "PAY*MYNTRA VIA SMARTB",
+      "description": "PAY*MYNTRA VIA SMARTBGURGAON",
+      "amount": 1279.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "PAY*MYNTRA VIA SMARTB",
+      "description": "PAY*MYNTRA VIA SMARTBGURGAON",
+      "amount": 702.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 1553.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-27",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -38.96,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "OPENAI *CHATGPT SUBSCR",
+      "description": "OPENAI *CHATGPT SUBSCRSAN FRANCISC",
+      "amount": 399.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "MAXLIFE",
+      "description": "EMI MAXLIFEMUMBAI",
+      "amount": 11666.6,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "Myntra Designs Pvt Ltd",
+      "description": "Myntra Designs Pvt LtdBengaluru",
+      "amount": 1422.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-28",
+      "merchant": "DHBVN",
+      "description": "EMI DHBVNHissar",
+      "amount": 34045.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "ICICIPRULIFI",
+      "description": "EMI ICICIPRULIFIMUMBAI",
+      "amount": 14865.22,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "BIG CHILL CAKERY",
+      "description": "BIG CHILL CAKERYNEW DELHI",
+      "amount": 1310.4,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "MUSEUM OF ILLUSIONS",
+      "description": "MUSEUM OF ILLUSIONSCENTRAL DELH",
+      "amount": 299.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "MUSEUM OF ILLUSIONS",
+      "description": "MUSEUM OF ILLUSIONSCENTRAL DELH",
+      "amount": 2041.4,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "MUSEUM OF ILLUSIONS",
+      "description": "MUSEUM OF ILLUSIONSCENTRAL DELH",
+      "amount": 299.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "BABA SRI CHAND MAJIK EN",
+      "description": "BABA SRI CHAND MAJIK ENNEW DELHI",
+      "amount": 1050.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "PAY*MYNTRA VIA SMARTB",
+      "description": "PAY*MYNTRA VIA SMARTBGURGAON",
+      "amount": 1349.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-29",
+      "merchant": "MYNTRA DESIGNS PRIVATE",
+      "description": "MYNTRA DESIGNS PRIVATEBangalore",
+      "amount": 2336.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "DCC Transaction",
+      "description": "1.75% on all DCC Transaction (Ref# ST262430084000011494035)",
+      "amount": 6.98,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "HDFCLIFEINS",
+      "description": "EMI HDFCLIFEINSMUMBAI",
+      "amount": 22950.42,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-01",
+      "merchant": "NARAIN SERVICE STATION",
+      "description": "EMI NARAIN SERVICE STATIONFaridabad",
+      "amount": 3267.67,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-01",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -32.35,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "RSP*SWIGGY PVT LTD FO",
+      "description": "RSP*SWIGGY PVT LTD FOBENGALURU",
+      "amount": 473.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-03",
+      "merchant": "Tara Chand Saluja Son",
+      "description": "Tara Chand Saluja SonFaridabad",
+      "amount": 526.14,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-03",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -5.21,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-04",
+      "merchant": "PAY*SWIGGY FOOD",
+      "description": "PAY*SWIGGY FOODBANGALORE",
+      "amount": 347.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-04",
+      "merchant": "PAY*MYNTRA FINE JEWEL",
+      "description": "EMI PAY*MYNTRA FINE JEWELBENGALURU",
+      "amount": 79092.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-05",
+      "merchant": "SHIVA CARES",
+      "description": "SHIVA CARESFaridabad",
+      "amount": 2043.84,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-05",
+      "merchant": "ASSPL",
+      "description": "ASSPLBangalore",
+      "amount": 2240.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-05",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -20.24,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-08",
+      "merchant": "INNOVATIVE RETAIL CON",
+      "description": "INNOVATIVE RETAIL CONBENGALURU",
+      "amount": 286.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "PAY*VODAFONEIDEA LIMI",
+      "description": "PAY*VODAFONEIDEA LIMIGURGAON",
+      "amount": 889.72,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "PTM*BHARTI AIRTEL LIM",
+      "description": "PTM*BHARTI AIRTEL LIMNOIDA",
+      "amount": 1414.82,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "PTM*RELIANCE RETAIL L",
+      "description": "PTM*RELIANCE RETAIL LNOIDA",
+      "amount": 1060.82,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "PAY*MYNTRA FINE JEWEL",
+      "description": "EMI PAY*MYNTRA FINE JEWELBENGALURU",
+      "amount": 78042.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "NARAIN SERVICE STATION",
+      "description": "NARAIN SERVICE STATIONFaridabad",
+      "amount": 2043.83,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-09",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -20.24,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-12",
+      "merchant": "MMT HOTEL VIA SMARTBU",
+      "description": "EMI MMT HOTEL VIA SMARTBUBANGALORE",
+      "amount": 34558.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-12",
+      "merchant": "HINDUSTAN PETROLEUM CORP",
+      "description": "EMI HINDUSTAN PETROLEUM CORPANIPAT",
+      "amount": 2524.26,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-12",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -24.99,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "ITCRAJ FRONT OFFICE 1",
+      "description": "EMI ITCRAJ FRONT OFFICE 1JAIPUR",
+      "amount": 5637.46,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "OM SWEETS PVT LTD",
+      "description": "OM SWEETS PVT LTDFARIDABAD",
+      "amount": 640.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "PRAKASH ASPHALTINGS TO",
+      "description": "EMI PRAKASH ASPHALTINGS TOGURUGRAM",
+      "amount": 3055.64,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -30.25,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-15",
+      "merchant": "NETFLIX",
+      "description": "NETFLIXMUMBAI",
+      "amount": 499.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-15",
+      "merchant": "PAY*MYNTRA FINE JEWEL",
+      "description": "EMI PAY*MYNTRA FINE JEWELBENGALURU",
+      "amount": 151698.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-18",
+      "merchant": "PTM*ZOMATO LIMITED",
+      "description": "PTM*ZOMATO LIMITEDNEW DELHI",
+      "amount": 814.41,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-19",
+      "merchant": "WLI*Miniso, Sector 15",
+      "description": "WLI*Miniso, Sector 15FARIDABAD",
+      "amount": 850.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-19",
+      "merchant": "METRO BRANDS LIMITED",
+      "description": "EMI METRO BRANDS LIMITEDMUMBAI",
+      "amount": 2990.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-19",
+      "merchant": "CAFE PARMESAN",
+      "description": "CAFE PARMESANFARIDABAD",
+      "amount": 1197.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-20",
+      "merchant": "Amazon Seller Services",
+      "description": "Amazon Seller ServicesBANGALORE",
+      "amount": 596.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-21",
+      "merchant": "HINDUSTAN PETROLEUM CORP",
+      "description": "HINDUSTAN PETROLEUM CORPANIPAT",
+      "amount": 2043.84,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-21",
+      "merchant": "PETRO SURCHARGE WAIVER",
+      "description": "PETRO SURCHARGE WAIVER",
+      "amount": -20.24,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-22",
+      "merchant": "OFFUS EMI PRIN",
+      "description": "OFFUS EMI,PRIN NB:09,00000135614764 (Ref# 09999999980922007418474)",
+      "amount": 8493.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-22",
+      "merchant": "OFFUS EMI INT",
+      "description": "OFFUS EMI,INT NBR:09,00000135614764 (Ref# 09999999980922007418482)",
+      "amount": 374.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-26",
+      "merchant": "Airport Lounge",
+      "description": "Airport LoungeBangalore",
+      "amount": 2.0,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-26",
+      "merchant": "Airport Lounge",
+      "description": "Airport LoungeBangalore",
+      "amount": -2.0,
+      "owner": "ROHAN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "ANTHROPIC* CLAUDE SUB",
+      "description": "ANTHROPIC* CLAUDE SUBSAN FRANCISC",
+      "amount": 2259.82,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": 23.6,
+      "foreign_currency": "USD"
+    },
+    {
+      "date": "2026-08-25",
+      "merchant": "IGST",
+      "description": "IGST-VPS2723883124208-RATE 18.0 -06 (Ref# MT262380076000010017906)",
+      "amount": 8.14,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-08-30",
+      "merchant": "IGST",
+      "description": "IGST-VPS2724394454678-RATE 18.0 -06 (Ref# ST262430084000011494035)",
+      "amount": 1.26,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-22",
+      "merchant": "CONSOLIDATED FCY MARKUP FEE",
+      "description": "CONSOLIDATED FCY MARKUP FEE (Ref# MT262380076000010017906)",
+      "amount": 45.2,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

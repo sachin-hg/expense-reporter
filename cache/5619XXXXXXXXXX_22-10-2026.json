@@ -1,0 +1,22 @@
+{
+  "statement_period": {"from": "2026-09-22", "to": "2026-10-22"},
+  "transactions": [
+    {"date": "2026-09-22", "merchant": "PETRO SURCHARGE WAIVER", "description": "PETRO SURCHARGE WAIVER", "amount": -29.88, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-22", "merchant": "IGST-VPS2726676482742", "description": "IGST-VPS2726676482742-RATE 18.", "amount": 67.32, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-22", "merchant": "SAPRU CAR CARE CENTER Gurgaon", "description": "SAPRU CAR CARE CENTER Gurgaon", "amount": 3018.08, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-23", "merchant": "Global Value_Cash Back", "description": "Global Value_Cash Back", "amount": -22.60, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-25", "merchant": "IGST-VPS2726980016795", "description": "IGST-VPS2726980016795-RATE 18.", "amount": 8.16, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-25", "merchant": "FCY CONVERSION MARKUP FEE", "description": "FCY CONVERSION MARKUP FEE", "amount": 45.31, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-25", "merchant": "ANTHROPIC* CLAUDE SUB SAN FRA", "description": "ANTHROPIC* CLAUDE SUB SAN FRA", "amount": 2265.42, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-27", "merchant": "FUNKY KINGDOM NEW DEL", "description": "FUNKY KINGDOM NEW DEL", "amount": 2500.0, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-27", "merchant": "EIKO PATISSERIE AND BAKFARIDAB", "description": "EIKO PATISSERIE AND BAKFARIDAB", "amount": 870.0, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-27", "merchant": "KEVENTERS FARIDAB", "description": "KEVENTERS FARIDAB", "amount": 263.0, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-28", "merchant": "PAY*MYNTRA FINE JEWEL BENGALU", "description": "PAY*MYNTRA FINE JEWEL BENGALU", "amount": 74813.0, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-28", "merchant": "OPENAI *CHATGPT SUBSCR SAN FRA", "description": "OPENAI *CHATGPT SUBSCR SAN FRA", "amount": 399.0, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-29", "merchant": "PETRO SURCHARGE WAIVER", "description": "PETRO SURCHARGE WAIVER", "amount": -38.45, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-29", "merchant": "RAJBIR AUTO CENTRE FARIDAB", "description": "RAJBIR AUTO CENTRE FARIDAB", "amount": 3883.29, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-30", "merchant": "UNLOCKED GURGAON", "description": "UNLOCKED GURGAON", "amount": 2960.0, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-30", "merchant": "IGST-VPS2727407841749", "description": "IGST-VPS2727407841749-RATE 18.", "amount": 1.26, "owner": "", "foreign_amount": null, "foreign_currency": null},
+    {"date": "2026-09-30", "merchant": "1.75% On All DCC Transaction", "description": "1.75% On All DCC Transaction", "amount": 6.98, "owner": "", "foreign_amount": null, "foreign_currency": null}
+  ]
+}

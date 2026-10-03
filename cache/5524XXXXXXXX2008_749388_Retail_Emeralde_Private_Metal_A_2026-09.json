@@ -1,0 +1,26 @@
+{
+  "statement_period": {
+    "from": "2026-08-19",
+    "to": "2026-09-18"
+  },
+  "transactions": [
+    {
+      "date": "2026-08-22",
+      "merchant": "FIRSTCRY PUNE IN",
+      "description": "FIRSTCRY PUNE IN",
+      "amount": 1430.5,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-17",
+      "merchant": "REWARD360 GLOBAL SERVI BANGALORE IN",
+      "description": "REWARD360 GLOBAL SERVI BANGALORE IN",
+      "amount": 29885.0,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

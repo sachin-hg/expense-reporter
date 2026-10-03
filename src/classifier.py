@@ -25,6 +25,7 @@ CATEGORIES = [
     "health",
     "upskill_ai",
     "rohan",
+    "nitin",
     "papa",
     "one_time",
     "investments",
@@ -279,6 +280,8 @@ _TIER1_RULES: list = [
     (re.compile(r'vakatrip', re.I),                                     "trip",          "VakaTrip"),
     (re.compile(r'visa.?agent', re.I),                                  "trip",          "Visa Agent Fee"),
     (re.compile(r'\bvfs\b', re.I),                                      "trip",          "VFS Visa Fee"),
+    # investments — Myntra Fine Jewellery BEFORE generic Myntra rule
+    (re.compile(r'myntra.*fine.*jewel', re.I),                          "investments",   "Gold Coin"),
     # shopping — Myntra BEFORE SmartBuy so "MYNTRA VIA SMARTBUY" → shopping, not trip
     (re.compile(r'myntra', re.I),                                       "shopping",      "Myntra"),
     # amount-dependent (abs so large refunds also get trip)

@@ -1,0 +1,206 @@
+{
+  "statement_period": {
+    "from": "2026-09-01",
+    "to": "2026-09-30"
+  },
+  "transactions": [
+    {
+      "date": "2026-09-29",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI Ref No: 627281271511 #Food",
+      "amount": 18,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-29",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI Ref No: 614968249588 #Food",
+      "amount": 21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-28",
+      "merchant": "HDFC Bank Credit Card",
+      "description": "Bill Payment of HDFC Bank Credit Card XXXX XXXX XXXX 2646 UPI Ref No: 627176645107 #Bill Payments",
+      "amount": 2694,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-28",
+      "merchant": "Komorebi Tech Solutions Private Limited",
+      "description": "Paid to Komorebi Tech Solutions Private Limited UPI Ref No: 614931704505 Note: UPIIntent #Travel",
+      "amount": 945,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-24",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI Ref No: 626743036569 #Food",
+      "amount": 18,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-22",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI Ref No: 315245138027 #Food",
+      "amount": 18,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-21",
+      "merchant": "Komorebi Tech Soluti",
+      "description": "Paid to Komorebi Tech Soluti UPI Ref No: 216252037419 Note: UPIIntent #Travel",
+      "amount": 945,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-19",
+      "merchant": "Special Coconut Water",
+      "description": "Paid to Special Coconut Water UPI Ref No: 315034588270 #Food",
+      "amount": 120,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-19",
+      "merchant": "Ranjeet Kumar",
+      "description": "Paid to Ranjeet Kumar UPI Ref No: 626205805576 #Groceries",
+      "amount": 50,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-19",
+      "merchant": "Swiggy Instamart Private Limited",
+      "description": "Paid to Swiggy Instamart Private Limited UPI Ref No: 216030987191 Note: Pay for Intent #Groceries",
+      "amount": 302,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-16",
+      "merchant": "Bhatia Medicos",
+      "description": "Paid to Bhatia Medicos UPI Ref No: 314849612465 Note: Medical #Medical",
+      "amount": 260,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-14",
+      "merchant": "Komorebi Tech Soluti",
+      "description": "Paid to Komorebi Tech Soluti UPI Ref No: 314681464088 Note: UPIIntent #Travel",
+      "amount": 945,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-08",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI Ref No: 625115317666 #Food",
+      "amount": 21,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-07",
+      "merchant": "Komorebi Tech Soluti",
+      "description": "Paid to Komorebi Tech Soluti UPI Ref No: 314141293811 Note: UPIIntent #Travel",
+      "amount": 885,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-05",
+      "merchant": "Mr Saurav Kumar Varshney",
+      "description": "Money sent to Mr Saurav Kumar Varshney UPI Ref No: 313985128604 #Money Transfer",
+      "amount": 184,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-03",
+      "merchant": "Lata Verma",
+      "description": "Paid to Lata Verma UPI Ref No: 613407773559 #Shopping",
+      "amount": 70,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-03",
+      "merchant": "Lata Verma",
+      "description": "Paid to Lata Verma UPI Ref No: 613407088104 Note: Clothes #Shopping",
+      "amount": 250,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-03",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI Ref No: 313816860020 #Food",
+      "amount": 18,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "Rajat Khajuria",
+      "description": "Received from Rajat Khajuria UPI Ref No: 128916973563 #Money Received",
+      "amount": -28500,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "Cityflo",
+      "description": "Paid to Cityflo UPI Ref No: 313775821253 #Travel",
+      "amount": 298,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-02",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI Ref No: 214648613929 #Food",
+      "amount": 18,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-01",
+      "merchant": "Sodexo Adobe Sec132 FS 12007101",
+      "description": "Paid to Sodexo Adobe Sec132 FS 12007101 UPI Ref No: 313674132703 #Food",
+      "amount": 18,
+      "owner": "",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}

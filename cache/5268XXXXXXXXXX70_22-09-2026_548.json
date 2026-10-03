@@ -1,0 +1,125 @@
+{
+  "statement_period": {
+    "from": "2026-08-23",
+    "to": "2026-09-22"
+  },
+  "transactions": [
+    {
+      "date": "2026-08-30",
+      "merchant": "SWIGGY FOOD",
+      "description": "SWIGGY FOODBANGALORE",
+      "amount": 334.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-10",
+      "merchant": "Swiggy",
+      "description": "SwiggyBENGALURU",
+      "amount": 367.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-10",
+      "merchant": "SWIGGY FOOD",
+      "description": "SWIGGY FOODBANGALORE",
+      "amount": 508.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-15",
+      "merchant": "PAY*SWIGGY FOOD",
+      "description": "PAY*SWIGGY FOODBANGALORE",
+      "amount": 422.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-18",
+      "merchant": "RSP*SWIGGY PVT LTD",
+      "description": "RSP*SWIGGY PVT LTD FOBENGALURU",
+      "amount": 404.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-18",
+      "merchant": "Swiggy",
+      "description": "SwiggyBENGALURU",
+      "amount": 422.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-20",
+      "merchant": "Swiggy",
+      "description": "SwiggyBENGALURU",
+      "amount": 491.0,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-22",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack_Reversal",
+      "amount": 49.1,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-22",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -49.1,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-01",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -33.4,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-12",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -87.5,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-17",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -42.2,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    },
+    {
+      "date": "2026-09-20",
+      "merchant": "Swiggy",
+      "description": "10% Swiggy CashBack",
+      "amount": -82.6,
+      "owner": "SACHIN AGRAWAL",
+      "foreign_amount": null,
+      "foreign_currency": null
+    }
+  ]
+}
