@@ -39,9 +39,14 @@ def main():
             row.append(round(val, 2))
         rows.append(row)
 
+    _EXCLUDE_FROM_TOTAL = {"investments", "rohan", "nitin"}
     total_row = ["Total"]
     for lbl in month_labels:
-        total_row.append(round(sum(months[lbl].get(cat, 0.0) for cat in CATEGORIES), 2))
+        total_row.append(round(sum(
+            months[lbl].get(cat, 0.0)
+            for cat in CATEGORIES
+            if cat not in _EXCLUDE_FROM_TOTAL
+        ), 2))
     rows.append(total_row)
 
     out = Path("reports/summary.csv")
